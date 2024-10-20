@@ -3,7 +3,7 @@
     "total_pages": 73,
     "current_page": 1,
     "total_items_count": 2185,
-    "items_count": 31,
+    "items_count": 30,
     "results": [
         {
             "id": 2545026,
@@ -37,52 +37,39 @@
                 "Outdoor pool",
                 "Fitness center"
             ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
+            "providers": []
         },
         {
-            "id": 630596,
-            "name": "Hyatt Regency Barcelona Tower",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d630596-Reviews-Hyatt_Regency_Barcelona_Tower-Barcelona_Catalonia.html",
-            "reviews": 3566,
-            "rating": 4.5,
+            "id": 3533952,
+            "name": "Travelodge Barcelona Poblenou",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d3533952-Reviews-Travelodge_Barcelona_Poblenou-Barcelona_Catalonia.html",
+            "reviews": 2625,
+            "rating": 4,
             "price_range_usd": {
-                "min": 187,
-                "max": 295
+                "min": 87,
+                "max": 157
             },
-            "phone": "+34 934 13 50 00",
-            "address": "Avinguda de la Granvia de l\u2019Hospitalet, 144, 08907 Barcelona Spain",
+            "phone": "+34 936 24 18 02",
+            "address": "Carrer Llull, 170, 08005 Barcelona Spain",
             "detailed_address": {
-                "street": "Avinguda de la Granvia de l\u2019Hospitalet, 144",
+                "street": "Carrer Llull, 170",
                 "city": "Barcelona",
-                "postal_code": "08907",
+                "postal_code": "08005",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 56,
+                "current_rank": 223,
                 "total": 512
             },
             "featured_image": null,
-            "latitude": 41.346046,
-            "longitude": 2.108611,
+            "latitude": 41.40001,
+            "longitude": 2.201108,
             "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Heated pool",
-                "Indoor pool",
-                "Restaurant"
+                "Restaurant",
+                "Bar/Lounge"
             ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "Vio.com"
-            ]
+            "providers": []
         },
         {
             "id": 228590,
@@ -117,12 +104,7 @@
                 "Restaurant",
                 "Room service"
             ],
-            "providers": [
-                "Expedia.com",
-                "Official website",
-                "Booking.com",
-                "Skyscanner.com"
-            ]
+            "providers": []
         },
         {
             "id": 190616,
@@ -157,92 +139,7 @@
                 "Restaurant",
                 "Airport transportation"
             ],
-            "providers": [
-                "Expedia.com",
-                "Official website",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
-        },
-        {
-            "id": 236194,
-            "name": "Hotel Catalonia Park G\u00fcell",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d236194-Reviews-Hotel_Catalonia_Park_Guell-Barcelona_Catalonia.html",
-            "reviews": 1417,
-            "rating": 3.5,
-            "price_range_usd": {
-                "min": 86,
-                "max": 185
-            },
-            "phone": "+34 932 19 12 04",
-            "address": "Passeig de la Mare de Deu del Coll, 10, 08023 Barcelona Spain",
-            "detailed_address": {
-                "street": "Passeig de la Mare de Deu del Coll, 10",
-                "city": "Barcelona",
-                "postal_code": "08023",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 351,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.41435,
-            "longitude": 2.14482,
-            "amenities": [
-                "Free Wifi",
-                "Outdoor pool",
-                "Restaurant",
-                "Room service",
-                "Pets Allowed"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 206920,
-            "name": "NH Collection Barcelona Podium",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d206920-Reviews-NH_Collection_Barcelona_Podium-Barcelona_Catalonia.html",
-            "reviews": 1495,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 175,
-                "max": 318
-            },
-            "phone": "+34 932 65 02 02",
-            "address": "Carrer de Bail\u00e8n 4-6, 08010 Barcelona Spain",
-            "detailed_address": {
-                "street": "Carrer de Bail\u00e8n 4-6",
-                "city": "Barcelona",
-                "postal_code": "08010",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 103,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.391624,
-            "longitude": 2.177928,
-            "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant",
-                "Room service"
-            ],
-            "providers": [
-                "Expedia.com",
-                "NH Collection",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
+            "providers": []
         },
         {
             "id": 250390,
@@ -276,128 +173,7 @@
                 "Room service",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Expedia.com",
-                "Official website",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 231529,
-            "name": "Tres Torres Atiram Hotel",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231529-Reviews-Tres_Torres_Atiram_Hotel-Barcelona_Catalonia.html",
-            "reviews": 581,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 114,
-                "max": 194
-            },
-            "phone": "+34 934 17 73 00",
-            "address": "Calle Calatrava, 32, 08017 Barcelona Spain",
-            "detailed_address": {
-                "street": "Calle Calatrava, 32",
-                "city": "Barcelona",
-                "postal_code": "08017",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 164,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.399887,
-            "longitude": 2.130179,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Hotels.com",
-                "Booking.com",
-                "Lol.travel"
-            ]
-        },
-        {
-            "id": 3533952,
-            "name": "Travelodge Barcelona Poblenou",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d3533952-Reviews-Travelodge_Barcelona_Poblenou-Barcelona_Catalonia.html",
-            "reviews": 2625,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 87,
-                "max": 157
-            },
-            "phone": "+34 936 24 18 02",
-            "address": "Carrer Llull, 170, 08005 Barcelona Spain",
-            "detailed_address": {
-                "street": "Carrer Llull, 170",
-                "city": "Barcelona",
-                "postal_code": "08005",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 223,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.40001,
-            "longitude": 2.201108,
-            "amenities": [
-                "Restaurant",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
-        },
-        {
-            "id": 10062222,
-            "name": "Catalonia Magdalenes",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d10062222-Reviews-Catalonia_Magdalenes-Barcelona_Catalonia.html",
-            "reviews": 1564,
-            "rating": 5,
-            "price_range_usd": {
-                "min": 196,
-                "max": 360
-            },
-            "phone": "+34 934 81 35 17",
-            "address": "Carrer de les Magdalenes,13,15, 08002 Barcelona Spain",
-            "detailed_address": {
-                "street": "Carrer de les Magdalenes,13,15",
-                "city": "Barcelona",
-                "postal_code": "08002",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 5,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.386135,
-            "longitude": 2.174618,
-            "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Heated pool",
-                "Outdoor pool",
-                "Restaurant"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
+            "providers": []
         },
         {
             "id": 13223478,
@@ -432,12 +208,42 @@
                 "Restaurant",
                 "Room service"
             ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
+            "providers": []
+        },
+        {
+            "id": 630596,
+            "name": "Hyatt Regency Barcelona Tower",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d630596-Reviews-Hyatt_Regency_Barcelona_Tower-Barcelona_Catalonia.html",
+            "reviews": 3566,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 187,
+                "max": 295
+            },
+            "phone": "+34 934 13 50 00",
+            "address": "Avinguda de la Granvia de l\u2019Hospitalet, 144, 08907 Barcelona Spain",
+            "detailed_address": {
+                "street": "Avinguda de la Granvia de l\u2019Hospitalet, 144",
+                "city": "Barcelona",
+                "postal_code": "08907",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 56,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.346046,
+            "longitude": 2.108611,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Heated pool",
+                "Indoor pool",
+                "Restaurant"
+            ],
+            "providers": []
         },
         {
             "id": 19092478,
@@ -472,92 +278,7 @@
                 "Restaurant",
                 "Room service"
             ],
-            "providers": [
-                "Hotels.com",
-                "Expedia.com",
-                "Skyscanner.com",
-                "Trip.com"
-            ]
-        },
-        {
-            "id": 229676,
-            "name": "Catalonia Barcelona Plaza",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d229676-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html",
-            "reviews": 3911,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 142,
-                "max": 316
-            },
-            "phone": "+34 934 26 26 00",
-            "address": "Plaza Espana 6-8, 08014 Barcelona Spain",
-            "detailed_address": {
-                "street": "Plaza Espana 6-8",
-                "city": "Barcelona",
-                "postal_code": "08014",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 237,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.375607,
-            "longitude": 2.148524,
-            "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant",
-                "Room service"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 1465497,
-            "name": "W Barcelona",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d1465497-Reviews-W_Barcelona-Barcelona_Catalonia.html",
-            "reviews": 8294,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 322,
-                "max": 660
-            },
-            "phone": "+34 932 95 28 00",
-            "address": "Pla\u00e7a Rosa del Vents 1 Final Passeig De Joan De Borb\u00f3, 08039 Barcelona Spain",
-            "detailed_address": {
-                "street": "Pla\u00e7a Rosa del Vents 1, Final Passeig De Joan De Borb\u00f3",
-                "city": "Barcelona",
-                "postal_code": "08039",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 301,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.36845,
-            "longitude": 2.190151,
-            "amenities": [
-                "Free Wifi",
-                "Beachfront",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
+            "providers": []
         },
         {
             "id": 232778,
@@ -588,279 +309,7 @@
             "amenities": [
                 "Free Wifi"
             ],
-            "providers": [
-                "Official website",
-                "Skyscanner.com",
-                "StayForLong",
-                "Booking.com"
-            ]
-        },
-        {
-            "id": 3540235,
-            "name": "Generator Barcelona",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d3540235-Reviews-Generator_Barcelona-Barcelona_Catalonia.html",
-            "reviews": 2388,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 63,
-                "max": 206
-            },
-            "phone": "+34 932 20 03 77",
-            "address": "Carrer De C\u00f2rsega, 373, 08037 Barcelona Spain",
-            "detailed_address": {
-                "street": "Carrer De C\u00f2rsega, 373",
-                "city": "Barcelona",
-                "postal_code": "08037",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 87,
-                "total": 863
-            },
-            "featured_image": null,
-            "latitude": 41.39916,
-            "longitude": 2.162623,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Hotels.com",
-                "Expedia.com",
-                "Official Site"
-            ]
-        },
-        {
-            "id": 23462515,
-            "name": "Castell Beach Aparthotel",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d23462515-Reviews-Castell_Beach_Aparthotel-Barcelona_Catalonia.html",
-            "reviews": 5,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 78,
-                "max": 128
-            },
-            "phone": "+34 616 67 79 63",
-            "address": "Avinguda Castelldefels, 191-193, 08860 Barcelona Spain",
-            "detailed_address": {
-                "street": "Avinguda Castelldefels, 191-193",
-                "city": "Barcelona",
-                "postal_code": "08860",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": null,
-            "featured_image": null,
-            "latitude": 41.26851,
-            "longitude": 1.971649,
-            "amenities": [
-                "Beachfront",
-                "Outdoor pool"
-            ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Hotels.com",
-                "Official website"
-            ]
-        },
-        {
-            "id": 190823,
-            "name": "Hotel Col\u00f3n",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d190823-Reviews-Hotel_Colon-Barcelona_Catalonia.html",
-            "reviews": 3042,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 255,
-                "max": 407
-            },
-            "phone": "+34 933 01 14 04",
-            "address": "Avienida Catedral, 7, 08002 Barcelona Spain",
-            "detailed_address": {
-                "street": "Avienida Catedral, 7",
-                "city": "Barcelona",
-                "postal_code": "08002",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 133,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.384956,
-            "longitude": 2.175845,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Hotels.com",
-                "Expedia.com",
-                "Booking.com",
-                "Official website"
-            ]
-        },
-        {
-            "id": 543153,
-            "name": "Casa Camper Hotel Barcelona",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d543153-Reviews-Casa_Camper_Hotel_Barcelona-Barcelona_Catalonia.html",
-            "reviews": 2632,
-            "rating": 5,
-            "price_range_usd": {
-                "min": 233,
-                "max": 404
-            },
-            "phone": "+34 933 42 62 80",
-            "address": "Carrer Elisabets, 11, 08001 Barcelona Spain",
-            "detailed_address": {
-                "street": "Carrer Elisabets, 11",
-                "city": "Barcelona",
-                "postal_code": "08001",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 1,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.383293,
-            "longitude": 2.168481,
-            "amenities": [
-                "Free Wifi",
-                "Bar/Lounge",
-                "Fitness center"
-            ],
-            "providers": [
-                "Hotels.com",
-                "Expedia.com",
-                "Booking.com",
-                "eDreams"
-            ]
-        },
-        {
-            "id": 1948832,
-            "name": "Casa Gracia",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d1948832-Reviews-Casa_Gracia-Barcelona_Catalonia.html",
-            "reviews": 1937,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 119,
-                "max": 223
-            },
-            "phone": "+34 931 74 05 28",
-            "address": "Passeig de Gracia 116, 08008 Barcelona Spain",
-            "detailed_address": {
-                "street": "Passeig de Gracia 116",
-                "city": "Barcelona",
-                "postal_code": "08008",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 95,
-                "total": 863
-            },
-            "featured_image": null,
-            "latitude": 41.397175,
-            "longitude": 2.159252,
-            "amenities": [
-                "Free Wifi",
-                "Airport transportation",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Hotels.com",
-                "Vio.com"
-            ]
-        },
-        {
-            "id": 506158,
-            "name": "Hotel 1898",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d506158-Reviews-Hotel_1898-Barcelona_Catalonia.html",
-            "reviews": 6765,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 210,
-                "max": 425
-            },
-            "phone": "+34 935 52 95 52",
-            "address": "La Rambla, 109, 08001 Barcelona Spain",
-            "detailed_address": {
-                "street": "La Rambla, 109",
-                "city": "Barcelona",
-                "postal_code": "08001",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 28,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.383476,
-            "longitude": 2.171058,
-            "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Heated pool",
-                "Indoor pool",
-                "Outdoor pool"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com",
-                "Algotels"
-            ]
-        },
-        {
-            "id": 228507,
-            "name": "Barcelo\u0301 Sants",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d228507-Reviews-Barcelo_Sants-Barcelona_Catalonia.html",
-            "reviews": 5798,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 130,
-                "max": 232
-            },
-            "phone": "+34 935 03 53 00",
-            "address": "Plaza dels Paisos Catalans, S/N, 8014 Barcelona Spain",
-            "detailed_address": {
-                "street": "Plaza dels Paisos Catalans, S/N",
-                "city": "Barcelona",
-                "postal_code": "8014",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 113,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.37913,
-            "longitude": 2.139601,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Bar/Lounge",
-                "Fitness center"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Barcelo.com",
-                "ZenHotels.com"
-            ]
+            "providers": []
         },
         {
             "id": 228464,
@@ -895,48 +344,105 @@
                 "Bar/Lounge",
                 "Fitness center"
             ],
-            "providers": [
-                "Expedia.com",
-                "Hotels.com",
-                "Official website",
-                "ZenHotels.com"
-            ]
+            "providers": []
         },
         {
-            "id": 2663628,
-            "name": "Can Seuba",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d2663628-Reviews-Can_Seuba-Barcelona_Catalonia.html",
-            "reviews": 17,
+            "id": 231529,
+            "name": "Tres Torres Atiram Hotel",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231529-Reviews-Tres_Torres_Atiram_Hotel-Barcelona_Catalonia.html",
+            "reviews": 581,
             "rating": 4,
             "price_range_usd": {
-                "min": 55,
-                "max": 87
+                "min": 114,
+                "max": 194
             },
-            "phone": "+34 938 34 59 81",
-            "address": "C/ Emili Riera 48 Rellinars, 08299 Barcelona Spain",
+            "phone": "+34 934 17 73 00",
+            "address": "Calle Calatrava, 32, 08017 Barcelona Spain",
             "detailed_address": {
-                "street": "C/ Emili Riera 48, Rellinars",
+                "street": "Calle Calatrava, 32",
                 "city": "Barcelona",
-                "postal_code": "08299",
+                "postal_code": "08017",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 169,
-                "total": 309
+                "current_rank": 164,
+                "total": 512
             },
             "featured_image": null,
-            "latitude": 41.63994,
-            "longitude": 1.9126,
+            "latitude": 41.399887,
+            "longitude": 2.130179,
             "amenities": [
                 "Free Wifi",
-                "Pets Allowed",
+                "Restaurant",
+                "Room service",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Booking.com",
-                "Agoda.com"
-            ]
+            "providers": []
+        },
+        {
+            "id": 23462515,
+            "name": "Castell Beach Aparthotel",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d23462515-Reviews-Castell_Beach_Aparthotel-Barcelona_Catalonia.html",
+            "reviews": 5,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 78,
+                "max": 128
+            },
+            "phone": "+34 616 67 79 63",
+            "address": "Avinguda Castelldefels, 191-193, 08860 Barcelona Spain",
+            "detailed_address": {
+                "street": "Avinguda Castelldefels, 191-193",
+                "city": "Barcelona",
+                "postal_code": "08860",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": null,
+            "featured_image": null,
+            "latitude": 41.26851,
+            "longitude": 1.971649,
+            "amenities": [
+                "Beachfront",
+                "Outdoor pool"
+            ],
+            "providers": []
+        },
+        {
+            "id": 229676,
+            "name": "Catalonia Barcelona Plaza",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d229676-Reviews-Catalonia_Barcelona_Plaza-Barcelona_Catalonia.html",
+            "reviews": 3911,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 142,
+                "max": 316
+            },
+            "phone": "+34 934 26 26 00",
+            "address": "Plaza Espana 6-8, 08014 Barcelona Spain",
+            "detailed_address": {
+                "street": "Plaza Espana 6-8",
+                "city": "Barcelona",
+                "postal_code": "08014",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 237,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.375607,
+            "longitude": 2.148524,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Outdoor pool",
+                "Restaurant",
+                "Room service"
+            ],
+            "providers": []
         },
         {
             "id": 208210,
@@ -971,50 +477,75 @@
                 "Restaurant",
                 "Room service"
             ],
-            "providers": [
-                "Melia.com",
-                "Expedia.com",
-                "Booking.com",
-                "Hotels.com"
-            ]
+            "providers": []
         },
         {
-            "id": 231518,
-            "name": "Ibis Barcelona Meridiana",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231518-Reviews-Ibis_Barcelona_Meridiana-Barcelona_Catalonia.html",
-            "reviews": 1478,
-            "rating": 4,
+            "id": 543153,
+            "name": "Casa Camper Hotel Barcelona",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d543153-Reviews-Casa_Camper_Hotel_Barcelona-Barcelona_Catalonia.html",
+            "reviews": 2632,
+            "rating": 5,
             "price_range_usd": {
-                "min": 91,
-                "max": 153
+                "min": 233,
+                "max": 404
             },
-            "phone": "+34 932 76 83 10",
-            "address": "Paseo Andreu Nin 9, 08016 Barcelona Spain",
+            "phone": "+34 933 42 62 80",
+            "address": "Carrer Elisabets, 11, 08001 Barcelona Spain",
             "detailed_address": {
-                "street": "Paseo Andreu Nin 9",
+                "street": "Carrer Elisabets, 11",
                 "city": "Barcelona",
-                "postal_code": "08016",
+                "postal_code": "08001",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 276,
+                "current_rank": 1,
                 "total": 512
             },
             "featured_image": null,
-            "latitude": 41.435486,
-            "longitude": 2.181594,
+            "latitude": 41.383293,
+            "longitude": 2.168481,
+            "amenities": [
+                "Free Wifi",
+                "Bar/Lounge",
+                "Fitness center"
+            ],
+            "providers": []
+        },
+        {
+            "id": 231502,
+            "name": "INNSiDE by Meli\u00e1 Barcelona Apolo",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231502-Reviews-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html",
+            "reviews": 142,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 176,
+                "max": 332
+            },
+            "phone": "+34 933 43 30 00",
+            "address": "Avenida del Paralelo 57-59, 08004 Barcelona Spain",
+            "detailed_address": {
+                "street": "Avenida del Paralelo 57-59",
+                "city": "Barcelona",
+                "postal_code": "08004",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 132,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.374752,
+            "longitude": 2.170721,
             "amenities": [
                 "Free Wifi",
                 "Restaurant",
+                "Room service",
+                "Pets Allowed",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Expedia.com",
-                "Hotels.com",
-                "Booking.com",
-                "Vio.com"
-            ]
+            "providers": []
         },
         {
             "id": 10670124,
@@ -1049,92 +580,42 @@
                 "Outdoor pool",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Expedia.com",
-                "Hotels.com",
-                "Booking.com",
-                "ibis Styles"
-            ]
+            "providers": []
         },
         {
-            "id": 228592,
-            "name": "Apartamentos Hesperia Barcelona Sant Joan",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d228592-Reviews-Apartamentos_Hesperia_Barcelona_Sant_Joan-Barcelona_Catalonia.html",
-            "reviews": 1046,
-            "rating": 4,
+            "id": 10062222,
+            "name": "Catalonia Magdalenes",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d10062222-Reviews-Catalonia_Magdalenes-Barcelona_Catalonia.html",
+            "reviews": 1564,
+            "rating": 5,
             "price_range_usd": {
-                "min": 91,
-                "max": 135
+                "min": 196,
+                "max": 360
             },
-            "phone": "+34 934 77 30 03",
-            "address": "Calle Josep Trueta 2, 08970 Barcelona Spain",
+            "phone": "+34 934 81 35 17",
+            "address": "Carrer de les Magdalenes,13,15, 08002 Barcelona Spain",
             "detailed_address": {
-                "street": "Calle Josep Trueta 2",
+                "street": "Carrer de les Magdalenes,13,15",
                 "city": "Barcelona",
-                "postal_code": "08970",
+                "postal_code": "08002",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 313,
+                "current_rank": 5,
                 "total": 512
             },
             "featured_image": null,
-            "latitude": 41.3734,
-            "longitude": 2.07078,
+            "latitude": 41.386135,
+            "longitude": 2.174618,
             "amenities": [
                 "Free Wifi",
                 "Pool",
+                "Heated pool",
                 "Outdoor pool",
-                "Restaurant",
-                "Room service"
+                "Restaurant"
             ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
-        },
-        {
-            "id": 231502,
-            "name": "INNSiDE by Meli\u00e1 Barcelona Apolo",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231502-Reviews-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html",
-            "reviews": 142,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 176,
-                "max": 332
-            },
-            "phone": "+34 933 43 30 00",
-            "address": "Avenida del Paralelo 57-59, 08004 Barcelona Spain",
-            "detailed_address": {
-                "street": "Avenida del Paralelo 57-59",
-                "city": "Barcelona",
-                "postal_code": "08004",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 132,
-                "total": 512
-            },
-            "featured_image": null,
-            "latitude": 41.374752,
-            "longitude": 2.170721,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Pets Allowed",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Melia.com",
-                "Expedia.com",
-                "Booking.com",
-                "Skyscanner.com"
-            ]
+            "providers": []
         },
         {
             "id": 601350,
@@ -1166,49 +647,382 @@
                 "Restaurant",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Hotels.com",
-                "Skyscanner.com"
-            ]
+            "providers": []
         },
         {
-            "id": 231502,
-            "name": "INNSiDE by Meli\u00e1 Barcelona Apolo",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231502-Reviews-INNSiDE_by_Melia_Barcelona_Apolo-Barcelona_Catalonia.html",
-            "reviews": 142,
-            "rating": 4.5,
+            "id": 236194,
+            "name": "Hotel Catalonia Park G\u00fcell",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d236194-Reviews-Hotel_Catalonia_Park_Guell-Barcelona_Catalonia.html",
+            "reviews": 1417,
+            "rating": 3.5,
             "price_range_usd": {
-                "min": 176,
-                "max": 332
+                "min": 86,
+                "max": 185
             },
-            "phone": "+34 933 43 30 00",
-            "address": "Avenida del Paralelo 57-59, 08004 Barcelona Spain",
+            "phone": "+34 932 19 12 04",
+            "address": "Passeig de la Mare de Deu del Coll, 10, 08023 Barcelona Spain",
             "detailed_address": {
-                "street": "Avenida del Paralelo 57-59",
+                "street": "Passeig de la Mare de Deu del Coll, 10",
                 "city": "Barcelona",
-                "postal_code": "08004",
+                "postal_code": "08023",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 132,
+                "current_rank": 351,
                 "total": 512
             },
             "featured_image": null,
-            "latitude": 41.374752,
-            "longitude": 2.170721,
+            "latitude": 41.41435,
+            "longitude": 2.14482,
+            "amenities": [
+                "Free Wifi",
+                "Outdoor pool",
+                "Restaurant",
+                "Room service",
+                "Pets Allowed"
+            ],
+            "providers": []
+        },
+        {
+            "id": 1465497,
+            "name": "W Barcelona",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d1465497-Reviews-W_Barcelona-Barcelona_Catalonia.html",
+            "reviews": 8294,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 322,
+                "max": 660
+            },
+            "phone": "+34 932 95 28 00",
+            "address": "Pla\u00e7a Rosa del Vents 1 Final Passeig De Joan De Borb\u00f3, 08039 Barcelona Spain",
+            "detailed_address": {
+                "street": "Pla\u00e7a Rosa del Vents 1, Final Passeig De Joan De Borb\u00f3",
+                "city": "Barcelona",
+                "postal_code": "08039",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 301,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.36845,
+            "longitude": 2.190151,
+            "amenities": [
+                "Free Wifi",
+                "Beachfront",
+                "Pool",
+                "Outdoor pool",
+                "Restaurant"
+            ],
+            "providers": []
+        },
+        {
+            "id": 8956703,
+            "name": "Hotel Well and Come",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d8956703-Reviews-Hotel_Well_and_Come-Barcelona_Catalonia.html",
+            "reviews": 1742,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 161,
+                "max": 295
+            },
+            "phone": "+34 937 37 97 99",
+            "address": "Carrer de Girona, 158, 08037 Barcelona Spain",
+            "detailed_address": {
+                "street": "Carrer de Girona, 158",
+                "city": "Barcelona",
+                "postal_code": "08037",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 65,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.39917,
+            "longitude": 2.165565,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Outdoor pool",
+                "Bar/Lounge",
+                "Fitness center"
+            ],
+            "providers": []
+        },
+        {
+            "id": 190823,
+            "name": "Hotel Col\u00f3n",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d190823-Reviews-Hotel_Colon-Barcelona_Catalonia.html",
+            "reviews": 3042,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 255,
+                "max": 407
+            },
+            "phone": "+34 933 01 14 04",
+            "address": "Avienida Catedral, 7, 08002 Barcelona Spain",
+            "detailed_address": {
+                "street": "Avienida Catedral, 7",
+                "city": "Barcelona",
+                "postal_code": "08002",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 133,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.384956,
+            "longitude": 2.175845,
             "amenities": [
                 "Free Wifi",
                 "Restaurant",
                 "Room service",
+                "Bar/Lounge"
+            ],
+            "providers": []
+        },
+        {
+            "id": 206920,
+            "name": "NH Collection Barcelona Podium",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d206920-Reviews-NH_Collection_Barcelona_Podium-Barcelona_Catalonia.html",
+            "reviews": 1495,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 175,
+                "max": 318
+            },
+            "phone": "+34 932 65 02 02",
+            "address": "Carrer de Bail\u00e8n 4-6, 08010 Barcelona Spain",
+            "detailed_address": {
+                "street": "Carrer de Bail\u00e8n 4-6",
+                "city": "Barcelona",
+                "postal_code": "08010",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 103,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.391624,
+            "longitude": 2.177928,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Outdoor pool",
+                "Restaurant",
+                "Room service"
+            ],
+            "providers": []
+        },
+        {
+            "id": 1501787,
+            "name": "Sixtytwo Hotel",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d1501787-Reviews-Sixtytwo_Hotel-Barcelona_Catalonia.html",
+            "reviews": 2811,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 230,
+                "max": 398
+            },
+            "phone": "+34 932 72 41 80",
+            "address": "Passeig de Gracia 62, 08007 Barcelona Spain",
+            "detailed_address": {
+                "street": "Passeig de Gracia 62",
+                "city": "Barcelona",
+                "postal_code": "08007",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 3,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.392868,
+            "longitude": 2.164512,
+            "amenities": [
+                "Free Wifi",
+                "Airport transportation",
+                "Room service",
+                "Bar/Lounge"
+            ],
+            "providers": []
+        },
+        {
+            "id": 3540235,
+            "name": "Generator Barcelona",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d3540235-Reviews-Generator_Barcelona-Barcelona_Catalonia.html",
+            "reviews": 2388,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 63,
+                "max": 206
+            },
+            "phone": "+34 932 20 03 77",
+            "address": "Carrer De C\u00f2rsega, 373, 08037 Barcelona Spain",
+            "detailed_address": {
+                "street": "Carrer De C\u00f2rsega, 373",
+                "city": "Barcelona",
+                "postal_code": "08037",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 87,
+                "total": 863
+            },
+            "featured_image": null,
+            "latitude": 41.39916,
+            "longitude": 2.162623,
+            "amenities": [
+                "Free Wifi",
+                "Restaurant",
+                "Bar/Lounge"
+            ],
+            "providers": []
+        },
+        {
+            "id": 1948832,
+            "name": "Casa Gracia",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d1948832-Reviews-Casa_Gracia-Barcelona_Catalonia.html",
+            "reviews": 1937,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 119,
+                "max": 223
+            },
+            "phone": "+34 931 74 05 28",
+            "address": "Passeig de Gracia 116, 08008 Barcelona Spain",
+            "detailed_address": {
+                "street": "Passeig de Gracia 116",
+                "city": "Barcelona",
+                "postal_code": "08008",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 95,
+                "total": 863
+            },
+            "featured_image": null,
+            "latitude": 41.397175,
+            "longitude": 2.159252,
+            "amenities": [
+                "Free Wifi",
+                "Airport transportation",
+                "Bar/Lounge"
+            ],
+            "providers": []
+        },
+        {
+            "id": 231518,
+            "name": "Ibis Barcelona Meridiana",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d231518-Reviews-Ibis_Barcelona_Meridiana-Barcelona_Catalonia.html",
+            "reviews": 1478,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 91,
+                "max": 153
+            },
+            "phone": "+34 932 76 83 10",
+            "address": "Paseo Andreu Nin 9, 08016 Barcelona Spain",
+            "detailed_address": {
+                "street": "Paseo Andreu Nin 9",
+                "city": "Barcelona",
+                "postal_code": "08016",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 276,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.435486,
+            "longitude": 2.181594,
+            "amenities": [
+                "Free Wifi",
+                "Restaurant",
+                "Bar/Lounge"
+            ],
+            "providers": []
+        },
+        {
+            "id": 2663628,
+            "name": "Can Seuba",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d2663628-Reviews-Can_Seuba-Barcelona_Catalonia.html",
+            "reviews": 17,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 55,
+                "max": 87
+            },
+            "phone": "+34 938 34 59 81",
+            "address": "C/ Emili Riera 48 Rellinars, 08299 Barcelona Spain",
+            "detailed_address": {
+                "street": "C/ Emili Riera 48, Rellinars",
+                "city": "Barcelona",
+                "postal_code": "08299",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 169,
+                "total": 309
+            },
+            "featured_image": null,
+            "latitude": 41.63994,
+            "longitude": 1.9126,
+            "amenities": [
+                "Free Wifi",
                 "Pets Allowed",
                 "Bar/Lounge"
             ],
-            "providers": [
-                "Melia.com"
-            ]
+            "providers": []
+        },
+        {
+            "id": 506158,
+            "name": "Hotel 1898",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187497-d506158-Reviews-Hotel_1898-Barcelona_Catalonia.html",
+            "reviews": 6765,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 210,
+                "max": 425
+            },
+            "phone": "+34 935 52 95 52",
+            "address": "La Rambla, 109, 08001 Barcelona Spain",
+            "detailed_address": {
+                "street": "La Rambla, 109",
+                "city": "Barcelona",
+                "postal_code": "08001",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 28,
+                "total": 512
+            },
+            "featured_image": null,
+            "latitude": 41.383476,
+            "longitude": 2.171058,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Heated pool",
+                "Indoor pool",
+                "Outdoor pool"
+            ],
+            "providers": []
         }
     ]
 }
