@@ -1,0 +1,2030 @@
+{
+    "status": true,
+    "timestamp": 1729452289840,
+    "sessionId": "aaf80f2f-78f0-4fc9-a5c2-40ccbeecad63",
+    "data": {
+        "context": {
+            "status": "incomplete",
+            "sessionId": "ClQIARJQCk4KJGFhZjgwZjJmLTc4ZjAtNGZjOS1hNWMyLTQwY2NiZWVjYWQ2MxACGiRiYThiNzdlNi03YjE5LTRhMmItYTIwMC03YjM3MDcwYTQzYWISKHVzc19kOGJjMzI5NC1iOWM1LTQxMmEtODAwNy05YTY4MGY5YmViODM=",
+            "totalResults": 10
+        },
+        "itineraries": [
+            {
+                "id": "13870-2411220715--32222-0-9772-2411220830|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 117.98,
+                    "formatted": "118 \u20ac",
+                    "pricingOptionId": "xg7VgqueIUeJ"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220715--32222-0-9772-2411220830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T07:15:00",
+                        "arrival": "2024-11-22T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220715-2411220830--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T07:15:00",
+                                "arrival": "2024-11-22T08:30:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "403",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest",
+                    "second_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.999
+            },
+            {
+                "id": "13870-2411221030--32222-0-9772-2411221145|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 149.48,
+                    "formatted": "150 \u20ac",
+                    "pricingOptionId": "5aPKtqV_skrI"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221030--32222-0-9772-2411221145",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T10:30:00",
+                        "arrival": "2024-11-22T11:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411221030-2411221145--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T10:30:00",
+                                "arrival": "2024-11-22T11:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "409",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.946382
+            },
+            {
+                "id": "13870-2411220645--32222-0-9772-2411220800|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 111.98,
+                    "formatted": "112 \u20ac",
+                    "pricingOptionId": "aSzp1KUysrrx"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220645--32222-0-9772-2411220800",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T06:45:00",
+                        "arrival": "2024-11-22T08:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220645-2411220800--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T06:45:00",
+                                "arrival": "2024-11-22T08:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "401",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "cheapest",
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.89742
+            },
+            {
+                "id": "13870-2411221130--32222-0-9772-2411221245|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 149.48,
+                    "formatted": "150 \u20ac",
+                    "pricingOptionId": "X3sPCs9YJB4A"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221130--32222-0-9772-2411221245",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T11:30:00",
+                        "arrival": "2024-11-22T12:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411221130-2411221245--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T11:30:00",
+                                "arrival": "2024-11-22T12:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "411",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.861705
+            },
+            {
+                "id": "13870-2411221315--32222-0-9772-2411221430|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 153.58,
+                    "formatted": "154 \u20ac",
+                    "pricingOptionId": "1iltiwLUdr25"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221315--32222-0-9772-2411221430",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T13:15:00",
+                        "arrival": "2024-11-22T14:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411221315-2411221430--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T13:15:00",
+                                "arrival": "2024-11-22T14:30:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "413",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.84418
+            },
+            {
+                "id": "13870-2411220830--32222-0-9772-2411220945|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 141.04,
+                    "formatted": "142 \u20ac",
+                    "pricingOptionId": "v1Zy0DErWi7n"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220830--32222-0-9772-2411220945",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T08:30:00",
+                        "arrival": "2024-11-22T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220830-2411220945--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T08:30:00",
+                                "arrival": "2024-11-22T09:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "407",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.827321
+            },
+            {
+                "id": "13870-2411220715--32222-0-9772-2411220830|9772-2411242030--31685-0-13870-2411242200",
+                "price": {
+                    "raw": 133.96,
+                    "formatted": "134 \u20ac",
+                    "pricingOptionId": "Oo36nOPBFOyV"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220715--32222-0-9772-2411220830",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T07:15:00",
+                        "arrival": "2024-11-22T08:30:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220715-2411220830--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T07:15:00",
+                                "arrival": "2024-11-22T08:30:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "403",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411242030-2411242200--31685",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.822281
+            },
+            {
+                "id": "13870-2411220645--32222-0-9772-2411220800|9772-2411242030--31685-0-13870-2411242200",
+                "price": {
+                    "raw": 125.98,
+                    "formatted": "126 \u20ac",
+                    "pricingOptionId": "chAKuTSaaaq-"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220645--32222-0-9772-2411220800",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T06:45:00",
+                        "arrival": "2024-11-22T08:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220645-2411220800--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T06:45:00",
+                                "arrival": "2024-11-22T08:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "401",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411242030-2411242200--31685",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.811739
+            },
+            {
+                "id": "13870-2411221510--32680-0-9772-2411221635|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 136.22,
+                    "formatted": "137 \u20ac",
+                    "pricingOptionId": "C3WcdY5Jj4gN"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221510--32680-0-9772-2411221635",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T15:10:00",
+                        "arrival": "2024-11-22T16:35:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32680,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                    "name": "Air Europa"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411221510-2411221635--32680",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T15:10:00",
+                                "arrival": "2024-11-22T16:35:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "7703",
+                                "marketingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.81053
+            },
+            {
+                "id": "13870-2411220830--32222-0-9772-2411220945|9772-2411242030--31685-0-13870-2411242200",
+                "price": {
+                    "raw": 152,
+                    "formatted": "152 \u20ac",
+                    "pricingOptionId": "yVgTeg0RkyRL"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220830--32222-0-9772-2411220945",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T08:30:00",
+                        "arrival": "2024-11-22T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220830-2411220945--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T08:30:00",
+                                "arrival": "2024-11-22T09:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "407",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411242030-2411242200--31685",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
+                                "marketingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.810305
+            }
+        ],
+        "messages": [],
+        "filterStats": {
+            "duration": {
+                "min": 85,
+                "max": 90,
+                "multiCityMin": 160,
+                "multiCityMax": 170
+            },
+            "airports": [
+                {
+                    "city": "Barcelona",
+                    "airports": [
+                        {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona"
+                        }
+                    ]
+                },
+                {
+                    "city": "Madrid",
+                    "airports": [
+                        {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid"
+                        }
+                    ]
+                }
+            ],
+            "carriers": [
+                {
+                    "id": -32680,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                    "name": "Air Europa"
+                },
+                {
+                    "id": -32222,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                },
+                {
+                    "id": -31685,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                    "name": "Vueling Airlines"
+                }
+            ],
+            "stopPrices": {
+                "direct": {
+                    "isPresent": true,
+                    "formattedPrice": "112 \u20ac"
+                },
+                "one": {
+                    "isPresent": false
+                },
+                "twoOrMore": {
+                    "isPresent": false
+                }
+            }
+        },
+        "flightsSessionId": "aaf80f2f-78f0-4fc9-a5c2-40ccbeecad63",
+        "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
+    }
+}
