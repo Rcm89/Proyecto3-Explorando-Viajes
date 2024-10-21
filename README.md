@@ -3,6 +3,14 @@
 
 Este proyecto consiste en la extracción de datos, de dos apis, Tripadvisor y skyscraper, ambas a través de rapidapi, y el escrapeo de una la web https://www.civitatis.com/ para obtener la inforamción necesaria de cara a la planificación de viajes de clientes. Sobre los datos extraidos se realiza un EDA.
 
+## Contexto
+
+El presente análisis parte de que somos una empresa organizadora de viajes, y nuestros clientes son Juan y Sara, una pareja, que quiere irse del 22 al 24 de Noviembre, de viaje para desconectar. Han pensado que quieren ir a Barcelona o a Santiago de Compostela.
+
+No quieren gastar mucho, por eso quieren billetes en clase turista, y quieren que nosotros les demos información sobre hoteles y actividades (les interesan las típicas actividades turisticas, pues no conocen a fondo ninguna de las dos ciudades), en base a la cual decidirán por cual destino se decantan.
+
+Con arreglo a estas premisas, nostros, mediante escrapeo de la web de civitatis, y uso de las APIS de tripadvisor y Skyscraper (ambas de rapidapi) hemos recabado una serie de datos, con los que reaizar nuestro análisis.
+
 ## Objetivos del Proyecto
 
 Los objetivos principales del proyecto son:
