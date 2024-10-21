@@ -1,24 +1,24 @@
 {
     "status": true,
-    "timestamp": 1729456000862,
-    "sessionId": "f8499880-397c-453c-8b92-babed867a626",
+    "timestamp": 1729463585688,
+    "sessionId": "23bf89db-2abf-42c0-a336-395544d5016b",
     "data": {
         "context": {
             "status": "incomplete",
-            "sessionId": "ClQIARJQCk4KJGY4NDk5ODgwLTM5N2MtNDUzYy04YjkyLWJhYmVkODY3YTYyNhACGiRhODFhMjI1MC02NjcwLTQ4MGItYmM4NS02MzY2ODg0OTIyNWESKHVzc19hNTRjYTQ4Ni00MzUyLTRhZTctOGJjZS1mODNjMDAxNWI5MTE=",
+            "sessionId": "ClQIARJQCk4KJDIzYmY4OWRiLTJhYmYtNDJjMC1hMzM2LTM5NTU0NGQ1MDE2YhACGiQwNTg0ZTcyZS0yYTkwLTRjMmMtODY5My1mNGZkNzk4YzZiY2MSKHVzc183OGQ1NTUyOS04ZDg2LTRjODMtOTMyYS03MWFkMmZkMDI1MTY=",
             "totalResults": 10
         },
         "itineraries": [
             {
-                "id": "13870-2411221600--32356-1-9772-2411222105|9772-2411241535--31685,-31915-1-13870-2411242205",
+                "id": "13870-2411220715--32222-0-9772-2411220830|9772-2411241515--32222-0-13870-2411241640",
                 "price": {
-                    "raw": 445.68,
-                    "formatted": "446 \u20ac",
-                    "pricingOptionId": "ixuWX8zMEzHd"
+                    "raw": 119.81,
+                    "formatted": "120 \u20ac",
+                    "pricingOptionId": "OkEse8tPfqpF"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221600--32356-1-9772-2411222105",
+                        "id": "13870-2411220715--32222-0-9772-2411220830",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -37,25 +37,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 305,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T16:00:00",
-                        "arrival": "2024-11-22T21:05:00",
+                        "departure": "2024-11-22T07:15:00",
+                        "arrival": "2024-11-22T08:30:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32356,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
-                                    "name": "easyJet"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-13577-2411221600-2411221620--32356",
+                                "id": "13870-9772-2411220715-2411220830--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -70,53 +70,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-22T16:00:00",
-                                "arrival": "2024-11-22T16:20:00",
-                                "durationInMinutes": 80,
-                                "flightNumber": "7646",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13577-9772-2411221825-2411222105--32356",
-                                "origin": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -129,21 +82,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T18:25:00",
-                                "arrival": "2024-11-22T21:05:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "7681",
+                                "departure": "2024-11-22T07:15:00",
+                                "arrival": "2024-11-22T08:30:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "403",
                                 "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -151,7 +104,7 @@
                         ]
                     },
                     {
-                        "id": "9772-2411241535--31685,-31915-1-13870-2411242205",
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -170,36 +123,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 390,
-                        "stopCount": 1,
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T15:35:00",
-                        "arrival": "2024-11-24T22:05:00",
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
+                            "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "9772-14476-2411241535-2411241715--31685",
+                                "id": "9772-13870-2411241515-2411241640--32222",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -214,53 +156,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-24T15:35:00",
-                                "arrival": "2024-11-24T17:15:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6334",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-13870-2411241940-2411242205--31915",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -273,21 +168,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -295,7 +190,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -305,22 +200,23 @@
                 },
                 "fareAttributes": {},
                 "tags": [
-                    "shortest"
+                    "second_cheapest",
+                    "second_shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
                 "score": 0.999
             },
             {
-                "id": "13870-2411221030--30596,-31685-1-9772-2411221635|9772-2411241535--31685,-31915-1-13870-2411242205",
+                "id": "13870-2411221030--32222-0-9772-2411221145|9772-2411241515--32222-0-13870-2411241640",
                 "price": {
-                    "raw": 440.68,
-                    "formatted": "441 \u20ac",
-                    "pricingOptionId": "NyiaBi9c5vGM"
+                    "raw": 149.04,
+                    "formatted": "150 \u20ac",
+                    "pricingOptionId": "392fWvpI9B66"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221030--30596,-31685-1-9772-2411221635",
+                        "id": "13870-2411221030--32222-0-9772-2411221145",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -339,30 +235,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 365,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
                         "departure": "2024-11-22T10:30:00",
-                        "arrival": "2024-11-22T16:35:00",
+                        "arrival": "2024-11-22T11:45:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-14476-2411221030-2411221245--30596",
+                                "id": "13870-9772-2411221030-2411221145--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -377,53 +268,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T10:30:00",
-                                "arrival": "2024-11-22T12:45:00",
-                                "durationInMinutes": 135,
-                                "flightNumber": "6312",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221500-2411221635--31685",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -436,21 +280,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T15:00:00",
-                                "arrival": "2024-11-22T16:35:00",
-                                "durationInMinutes": 95,
-                                "flightNumber": "6339",
+                                "departure": "2024-11-22T10:30:00",
+                                "arrival": "2024-11-22T11:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "409",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -458,7 +302,7 @@
                         ]
                     },
                     {
-                        "id": "9772-2411241535--31685,-31915-1-13870-2411242205",
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -477,36 +321,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 390,
-                        "stopCount": 1,
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T15:35:00",
-                        "arrival": "2024-11-24T22:05:00",
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
+                            "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "9772-14476-2411241535-2411241715--31685",
+                                "id": "9772-13870-2411241515-2411241640--32222",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -521,51 +354,198 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
                                     "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
                                         "type": "City"
                                     },
-                                    "name": "Milan Malpensa",
+                                    "name": "Madrid",
                                     "type": "Airport",
-                                    "country": "Italy"
+                                    "country": "Spain"
                                 },
-                                "departure": "2024-11-24T15:35:00",
-                                "arrival": "2024-11-24T17:15:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6334",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
-                            },
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.951746
+            },
+            {
+                "id": "13870-2411220645--32222-0-9772-2411220800|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 111.98,
+                    "formatted": "112 \u20ac",
+                    "pricingOptionId": "aSzp1KUysrrx"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220645--32222-0-9772-2411220800",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T06:45:00",
+                        "arrival": "2024-11-22T08:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
                             {
-                                "id": "14476-13870-2411241940-2411242205--31915",
+                                "id": "13870-9772-2411220645-2411220800--32222",
                                 "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
                                     "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
                                         "type": "City"
                                     },
-                                    "name": "Milan Malpensa",
+                                    "name": "Madrid",
                                     "type": "Airport",
-                                    "country": "Italy"
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T06:45:00",
+                                "arrival": "2024-11-22T08:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "401",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
                                 },
                                 "destination": {
                                     "flightPlaceId": "MAD",
@@ -580,21 +560,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -602,7 +582,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -612,22 +592,23 @@
                 },
                 "fareAttributes": {},
                 "tags": [
-                    "second_shortest"
+                    "cheapest",
+                    "shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.932765
+                "score": 0.899883
             },
             {
-                "id": "13870-2411221030--30596,-31685-1-9772-2411221720|9772-2411241535--31685,-31915-1-13870-2411242205",
+                "id": "13870-2411221130--32222-0-9772-2411221245|9772-2411241515--32222-0-13870-2411241640",
                 "price": {
-                    "raw": 406.68,
-                    "formatted": "407 \u20ac",
-                    "pricingOptionId": "gIDrx7xMw7cQ"
+                    "raw": 149.04,
+                    "formatted": "150 \u20ac",
+                    "pricingOptionId": "qbx4QGn0ZISs"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221030--30596,-31685-1-9772-2411221720",
+                        "id": "13870-2411221130--32222-0-9772-2411221245",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -646,30 +627,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 410,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T10:30:00",
-                        "arrival": "2024-11-22T17:20:00",
+                        "departure": "2024-11-22T11:30:00",
+                        "arrival": "2024-11-22T12:45:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-14476-2411221030-2411221245--30596",
+                                "id": "13870-9772-2411221130-2411221245--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -684,53 +660,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T10:30:00",
-                                "arrival": "2024-11-22T12:45:00",
-                                "durationInMinutes": 135,
-                                "flightNumber": "6312",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221545-2411221720--31685",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -743,21 +672,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T15:45:00",
-                                "arrival": "2024-11-22T17:20:00",
-                                "durationInMinutes": 95,
-                                "flightNumber": "6345",
+                                "departure": "2024-11-22T11:30:00",
+                                "arrival": "2024-11-22T12:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "411",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -765,7 +694,7 @@
                         ]
                     },
                     {
-                        "id": "9772-2411241535--31685,-31915-1-13870-2411242205",
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -784,36 +713,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 390,
-                        "stopCount": 1,
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T15:35:00",
-                        "arrival": "2024-11-24T22:05:00",
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
+                            "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "9772-14476-2411241535-2411241715--31685",
+                                "id": "9772-13870-2411241515-2411241640--32222",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -828,53 +746,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-24T15:35:00",
-                                "arrival": "2024-11-24T17:15:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6334",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-13870-2411241940-2411242205--31915",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -887,21 +758,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -909,7 +780,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -918,20 +789,20 @@
                     "isPartiallyRefundable": false
                 },
                 "fareAttributes": {},
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.847495
+                "score": 0.862434
             },
             {
-                "id": "13870-2411221045--31915,-31685-1-9772-2411221720|9772-2411241535--31685,-31915-1-13870-2411242205",
+                "id": "13870-2411221315--32222-0-9772-2411221430|9772-2411241515--32222-0-13870-2411241640",
                 "price": {
-                    "raw": 443.58,
-                    "formatted": "444 \u20ac",
-                    "pricingOptionId": "Bd8L-8fPJX0K"
+                    "raw": 152.72,
+                    "formatted": "153 \u20ac",
+                    "pricingOptionId": "IzHri-SrC4s7"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221045--31915,-31685-1-9772-2411221720",
+                        "id": "13870-2411221315--32222-0-9772-2411221430",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -950,30 +821,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 395,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T10:45:00",
-                        "arrival": "2024-11-22T17:20:00",
+                        "departure": "2024-11-22T13:15:00",
+                        "arrival": "2024-11-22T14:30:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-15055-2411221045-2411221105--31915",
+                                "id": "13870-9772-2411221315-2411221430--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -988,53 +854,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-22T10:45:00",
-                                "arrival": "2024-11-22T11:05:00",
-                                "durationInMinutes": 80,
-                                "flightNumber": "572",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "15055-9772-2411221435-2411221720--31685",
-                                "origin": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -1047,21 +866,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T14:35:00",
-                                "arrival": "2024-11-22T17:20:00",
-                                "durationInMinutes": 105,
-                                "flightNumber": "8477",
+                                "departure": "2024-11-22T13:15:00",
+                                "arrival": "2024-11-22T14:30:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "413",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -1069,7 +888,7 @@
                         ]
                     },
                     {
-                        "id": "9772-2411241535--31685,-31915-1-13870-2411242205",
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -1088,36 +907,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 390,
-                        "stopCount": 1,
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T15:35:00",
-                        "arrival": "2024-11-24T22:05:00",
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
+                            "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "9772-14476-2411241535-2411241715--31685",
+                                "id": "9772-13870-2411241515-2411241640--32222",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -1132,51 +940,198 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
                                     "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
                                         "type": "City"
                                     },
-                                    "name": "Milan Malpensa",
+                                    "name": "Madrid",
                                     "type": "Airport",
-                                    "country": "Italy"
+                                    "country": "Spain"
                                 },
-                                "departure": "2024-11-24T15:35:00",
-                                "arrival": "2024-11-24T17:15:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6334",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
-                            },
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.84417
+            },
+            {
+                "id": "13870-2411220830--32222-0-9772-2411220945|9772-2411241515--32222-0-13870-2411241640",
+                "price": {
+                    "raw": 141.05,
+                    "formatted": "142 \u20ac",
+                    "pricingOptionId": "v1Zy0DErWi7n"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220830--32222-0-9772-2411220945",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T08:30:00",
+                        "arrival": "2024-11-22T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
                             {
-                                "id": "14476-13870-2411241940-2411242205--31915",
+                                "id": "13870-9772-2411220830-2411220945--32222",
                                 "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
                                     "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
                                         "type": "City"
                                     },
-                                    "name": "Milan Malpensa",
+                                    "name": "Madrid",
                                     "type": "Airport",
-                                    "country": "Italy"
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T08:30:00",
+                                "arrival": "2024-11-22T09:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "407",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
                                 },
                                 "destination": {
                                     "flightPlaceId": "MAD",
@@ -1191,21 +1146,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -1213,7 +1168,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -1225,20 +1180,20 @@
                 "tags": [
                     "third_shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.765895
+                "score": 0.825061
             },
             {
-                "id": "13870-2411221600--32356-1-9772-2411222105|9772-2411241215--31915-1-13870-2411242020",
+                "id": "13870-2411220715--32222-0-9772-2411220830|9772-2411242030--31685-0-13870-2411242200",
                 "price": {
-                    "raw": 418.2,
-                    "formatted": "419 \u20ac",
-                    "pricingOptionId": "QaouMLbDhrFj"
+                    "raw": 132.47,
+                    "formatted": "133 \u20ac",
+                    "pricingOptionId": "j_l_56Bqj8ae"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221600--32356-1-9772-2411222105",
+                        "id": "13870-2411220715--32222-0-9772-2411220830",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -1257,25 +1212,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 305,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T16:00:00",
-                        "arrival": "2024-11-22T21:05:00",
+                        "departure": "2024-11-22T07:15:00",
+                        "arrival": "2024-11-22T08:30:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32356,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
-                                    "name": "easyJet"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-13577-2411221600-2411221620--32356",
+                                "id": "13870-9772-2411220715-2411220830--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -1290,53 +1245,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-22T16:00:00",
-                                "arrival": "2024-11-22T16:20:00",
-                                "durationInMinutes": 80,
-                                "flightNumber": "7646",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13577-9772-2411221825-2411222105--32356",
-                                "origin": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -1349,314 +1257,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T18:25:00",
-                                "arrival": "2024-11-22T21:05:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "7681",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "9772-2411241215--31915-1-13870-2411242020",
-                        "origin": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 485,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T12:15:00",
-                        "arrival": "2024-11-24T20:20:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "9772-15055-2411241215-2411241315--31915",
-                                "origin": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-24T12:15:00",
-                                "arrival": "2024-11-24T13:15:00",
-                                "durationInMinutes": 120,
-                                "flightNumber": "4585",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "15055-13870-2411241805-2411242020--31915",
-                                "origin": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T18:05:00",
-                                "arrival": "2024-11-24T20:20:00",
+                                "departure": "2024-11-22T07:15:00",
+                                "arrival": "2024-11-22T08:30:00",
                                 "durationInMinutes": 75,
-                                "flightNumber": "5483",
+                                "flightNumber": "403",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.753855
-            },
-            {
-                "id": "13870-2411220640--31915,-30596-1-9772-2411221550|9772-2411241215--31915-1-13870-2411242020",
-                "price": {
-                    "raw": 324.34,
-                    "formatted": "325 \u20ac",
-                    "pricingOptionId": "9f-Vd8-pqBkW"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411220640--31915,-30596-1-9772-2411221550",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 550,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T06:40:00",
-                        "arrival": "2024-11-22T15:50:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                },
-                                {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-14476-2411220640-2411220850--31915",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T06:40:00",
-                                "arrival": "2024-11-22T08:50:00",
-                                "durationInMinutes": 130,
-                                "flightNumber": "2753",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221410-2411221550--30596",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T14:10:00",
-                                "arrival": "2024-11-22T15:50:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6329",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -1664,7 +1279,7 @@
                         ]
                     },
                     {
-                        "id": "9772-2411241215--31915-1-13870-2411242020",
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -1683,484 +1298,14 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 485,
-                        "stopCount": 1,
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T12:15:00",
-                        "arrival": "2024-11-24T20:20:00",
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "9772-15055-2411241215-2411241315--31915",
-                                "origin": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-24T12:15:00",
-                                "arrival": "2024-11-24T13:15:00",
-                                "durationInMinutes": 120,
-                                "flightNumber": "4585",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "15055-13870-2411241805-2411242020--31915",
-                                "origin": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T18:05:00",
-                                "arrival": "2024-11-24T20:20:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "5483",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "tags": [
-                    "cheapest"
-                ],
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.71853
-            },
-            {
-                "id": "13870-2411220640--31915,-30596-1-9772-2411221550|9772-2411241535--31685,-31915-1-13870-2411242205",
-                "price": {
-                    "raw": 351.82,
-                    "formatted": "352 \u20ac",
-                    "pricingOptionId": "KRieJqYj7odS"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411220640--31915,-30596-1-9772-2411221550",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 550,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T06:40:00",
-                        "arrival": "2024-11-22T15:50:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                },
-                                {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-14476-2411220640-2411220850--31915",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T06:40:00",
-                                "arrival": "2024-11-22T08:50:00",
-                                "durationInMinutes": 130,
-                                "flightNumber": "2753",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221410-2411221550--30596",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T14:10:00",
-                                "arrival": "2024-11-22T15:50:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6329",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "9772-2411241535--31685,-31915-1-13870-2411242205",
-                        "origin": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 390,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T15:35:00",
-                        "arrival": "2024-11-24T22:05:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "9772-14476-2411241535-2411241715--31685",
-                                "origin": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-24T15:35:00",
-                                "arrival": "2024-11-24T17:15:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6334",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-13870-2411241940-2411242205--31915",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "tags": [
-                    "second_cheapest"
-                ],
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.71441
-            },
-            {
-                "id": "13870-2411221030--30596,-31685-1-9772-2411221720|9772-2411241215--31915-1-13870-2411242020",
-                "price": {
-                    "raw": 379.2,
-                    "formatted": "380 \u20ac",
-                    "pricingOptionId": "8iv4--Xwn_uz"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221030--30596,-31685-1-9772-2411221720",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 410,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T10:30:00",
-                        "arrival": "2024-11-22T17:20:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
-                                },
                                 {
                                     "id": -31685,
                                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
@@ -2171,68 +1316,8 @@
                         },
                         "segments": [
                             {
-                                "id": "13870-14476-2411221030-2411221245--30596",
+                                "id": "9772-13870-2411242030-2411242200--31685",
                                 "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T10:30:00",
-                                "arrival": "2024-11-22T12:45:00",
-                                "durationInMinutes": 135,
-                                "flightNumber": "6312",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221545-2411221720--31685",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
                                     "parent": {
@@ -2245,10 +1330,23 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T15:45:00",
-                                "arrival": "2024-11-22T17:20:00",
-                                "durationInMinutes": 95,
-                                "flightNumber": "6345",
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
                                 "marketingCarrier": {
                                     "id": -31685,
                                     "name": "Vueling Airlines",
@@ -2265,9 +1363,117 @@
                                 }
                             }
                         ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.822981
+            },
+            {
+                "id": "13870-2411220645--32222-0-9772-2411220800|9772-2411242030--31685-0-13870-2411242200",
+                "price": {
+                    "raw": 125.11,
+                    "formatted": "126 \u20ac",
+                    "pricingOptionId": "0oqfzcLEzcd0"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220645--32222-0-9772-2411220800",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T06:45:00",
+                        "arrival": "2024-11-22T08:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220645-2411220800--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T06:45:00",
+                                "arrival": "2024-11-22T08:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "401",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
                     },
                     {
-                        "id": "9772-2411241215--31915-1-13870-2411242020",
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
                         "origin": {
                             "id": "BCN",
                             "entityId": "95565085",
@@ -2286,25 +1492,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 485,
-                        "stopCount": 1,
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T12:15:00",
-                        "arrival": "2024-11-24T20:20:00",
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -31685,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
+                                    "name": "Vueling Airlines"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "9772-15055-2411241215-2411241315--31915",
+                                "id": "9772-13870-2411242030-2411242200--31685",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -2319,53 +1525,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-24T12:15:00",
-                                "arrival": "2024-11-24T13:15:00",
-                                "durationInMinutes": 120,
-                                "flightNumber": "4585",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "15055-13870-2411241805-2411242020--31915",
-                                "origin": {
-                                    "flightPlaceId": "OPO",
-                                    "displayCode": "OPO",
-                                    "parent": {
-                                        "flightPlaceId": "PORT",
-                                        "displayCode": "OPO",
-                                        "name": "Porto",
-                                        "type": "City"
-                                    },
-                                    "name": "Porto",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -2378,21 +1537,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T18:05:00",
-                                "arrival": "2024-11-24T20:20:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "5483",
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2400,7 +1559,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -2412,20 +1571,20 @@
                 "tags": [
                     "third_cheapest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.674306
+                "score": 0.811449
             },
             {
-                "id": "13870-2411221030--30596,-31685-1-9772-2411221720|9772-2411241425--31685,-31915-1-13870-2411242205",
+                "id": "13870-2411221510--32680-0-9772-2411221635|9772-2411241515--32222-0-13870-2411241640",
                 "price": {
-                    "raw": 394.68,
-                    "formatted": "395 \u20ac",
-                    "pricingOptionId": "Sa27Cjt8KPpx"
+                    "raw": 136.14,
+                    "formatted": "137 \u20ac",
+                    "pricingOptionId": "C3WcdY5Jj4gN"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221030--30596,-31685-1-9772-2411221720",
+                        "id": "13870-2411221510--32680-0-9772-2411221635",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -2444,19 +1603,294 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 410,
-                        "stopCount": 1,
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T10:30:00",
-                        "arrival": "2024-11-22T17:20:00",
+                        "departure": "2024-11-22T15:10:00",
+                        "arrival": "2024-11-22T16:35:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -30596,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                                    "name": "Wizz Air Malta"
+                                    "id": -32680,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                    "name": "Air Europa"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411221510-2411221635--32680",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
                                 },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T15:10:00",
+                                "arrival": "2024-11-22T16:35:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "7703",
+                                "marketingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32680,
+                                    "name": "Air Europa",
+                                    "alternateId": "UX",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411241515--32222-0-13870-2411241640",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 85,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T15:15:00",
+                        "arrival": "2024-11-24T16:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "9772-13870-2411241515-2411241640--32222",
+                                "origin": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T15:15:00",
+                                "arrival": "2024-11-24T16:40:00",
+                                "durationInMinutes": 85,
+                                "flightNumber": "414",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.807442
+            },
+            {
+                "id": "13870-2411220830--32222-0-9772-2411220945|9772-2411242030--31685-0-13870-2411242200",
+                "price": {
+                    "raw": 154.56,
+                    "formatted": "155 \u20ac",
+                    "pricingOptionId": "RclHjcEaD83b"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220830--32222-0-9772-2411220945",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T08:30:00",
+                        "arrival": "2024-11-22T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-9772-2411220830-2411220945--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "BCN",
+                                    "displayCode": "BCN",
+                                    "parent": {
+                                        "flightPlaceId": "BARC",
+                                        "displayCode": "BCN",
+                                        "name": "Barcelona",
+                                        "type": "City"
+                                    },
+                                    "name": "Barcelona",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T08:30:00",
+                                "arrival": "2024-11-22T09:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "407",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9772-2411242030--31685-0-13870-2411242200",
+                        "origin": {
+                            "id": "BCN",
+                            "entityId": "95565085",
+                            "name": "Barcelona",
+                            "displayCode": "BCN",
+                            "city": "Barcelona",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 90,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T20:30:00",
+                        "arrival": "2024-11-24T22:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
                                 {
                                     "id": -31685,
                                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
@@ -2467,151 +1901,7 @@
                         },
                         "segments": [
                             {
-                                "id": "13870-14476-2411221030-2411221245--30596",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-22T10:30:00",
-                                "arrival": "2024-11-22T12:45:00",
-                                "durationInMinutes": 135,
-                                "flightNumber": "6312",
-                                "marketingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30596,
-                                    "name": "Wizz Air Malta",
-                                    "alternateId": "I*",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-9772-2411221545-2411221720--31685",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T15:45:00",
-                                "arrival": "2024-11-22T17:20:00",
-                                "durationInMinutes": 95,
-                                "flightNumber": "6345",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "9772-2411241425--31685,-31915-1-13870-2411242205",
-                        "origin": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 460,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T14:25:00",
-                        "arrival": "2024-11-24T22:05:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "9772-14476-2411241425-2411241605--31685",
+                                "id": "9772-13870-2411242030-2411242200--31685",
                                 "origin": {
                                     "flightPlaceId": "BCN",
                                     "displayCode": "BCN",
@@ -2626,53 +1916,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-24T14:25:00",
-                                "arrival": "2024-11-24T16:05:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "6332",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-13870-2411241940-2411242205--31915",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -2685,21 +1928,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
+                                "departure": "2024-11-24T20:30:00",
+                                "arrival": "2024-11-24T22:00:00",
+                                "durationInMinutes": 90,
+                                "flightNumber": "1008",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
+                                    "id": -31685,
+                                    "name": "Vueling Airlines",
+                                    "alternateId": "07",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2707,7 +1950,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -2716,317 +1959,18 @@
                     "isPartiallyRefundable": false
                 },
                 "fareAttributes": {},
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.67135
-            },
-            {
-                "id": "13870-2411221600--32356-1-9772-2411222105|9772-2411241405--32356,-31915-1-13870-2411242205",
-                "price": {
-                    "raw": 457.18,
-                    "formatted": "458 \u20ac",
-                    "pricingOptionId": "93XBCeW6Iih2"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221600--32356-1-9772-2411222105",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 305,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T16:00:00",
-                        "arrival": "2024-11-22T21:05:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32356,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
-                                    "name": "easyJet"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-13577-2411221600-2411221620--32356",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "departure": "2024-11-22T16:00:00",
-                                "arrival": "2024-11-22T16:20:00",
-                                "durationInMinutes": 80,
-                                "flightNumber": "7646",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13577-9772-2411221825-2411222105--32356",
-                                "origin": {
-                                    "flightPlaceId": "LIS",
-                                    "displayCode": "LIS",
-                                    "parent": {
-                                        "flightPlaceId": "LISB",
-                                        "displayCode": "LIS",
-                                        "name": "Lisbon",
-                                        "type": "City"
-                                    },
-                                    "name": "Lisbon",
-                                    "type": "Airport",
-                                    "country": "Portugal"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T18:25:00",
-                                "arrival": "2024-11-22T21:05:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "7681",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "9772-2411241405--32356,-31915-1-13870-2411242205",
-                        "origin": {
-                            "id": "BCN",
-                            "entityId": "95565085",
-                            "name": "Barcelona",
-                            "displayCode": "BCN",
-                            "city": "Barcelona",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 480,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T14:05:00",
-                        "arrival": "2024-11-24T22:05:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32356,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
-                                    "name": "easyJet"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operating": [
-                                {
-                                    "id": -30823,
-                                    "name": "Malta Air"
-                                }
-                            ],
-                            "operationType": "partially_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "9772-14476-2411241405-2411241545--32356",
-                                "origin": {
-                                    "flightPlaceId": "BCN",
-                                    "displayCode": "BCN",
-                                    "parent": {
-                                        "flightPlaceId": "BARC",
-                                        "displayCode": "BCN",
-                                        "name": "Barcelona",
-                                        "type": "City"
-                                    },
-                                    "name": "Barcelona",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "departure": "2024-11-24T14:05:00",
-                                "arrival": "2024-11-24T15:45:00",
-                                "durationInMinutes": 100,
-                                "flightNumber": "7153",
-                                "marketingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32356,
-                                    "name": "easyJet",
-                                    "alternateId": "EZ",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "14476-13870-2411241940-2411242205--31915",
-                                "origin": {
-                                    "flightPlaceId": "MXP",
-                                    "displayCode": "MXP",
-                                    "parent": {
-                                        "flightPlaceId": "MILA",
-                                        "displayCode": "MIL",
-                                        "name": "Milan",
-                                        "type": "City"
-                                    },
-                                    "name": "Milan Malpensa",
-                                    "type": "Airport",
-                                    "country": "Italy"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T19:40:00",
-                                "arrival": "2024-11-24T22:05:00",
-                                "durationInMinutes": 145,
-                                "flightNumber": "3008",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -30823,
-                                    "name": "Malta Air",
-                                    "alternateId": "",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.667507
+                "score": 0.803149
             }
         ],
         "messages": [],
         "filterStats": {
             "duration": {
-                "min": 390,
-                "max": 550,
-                "multiCityMin": 695,
-                "multiCityMax": 1035
+                "min": 85,
+                "max": 90,
+                "multiCityMin": 160,
+                "multiCityMax": 170
             },
             "airports": [
                 {
@@ -3052,40 +1996,35 @@
             ],
             "carriers": [
                 {
-                    "id": -32356,
-                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/EZ.png",
-                    "name": "easyJet"
+                    "id": -32680,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                    "name": "Air Europa"
                 },
                 {
-                    "id": -31915,
-                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                    "name": "Ryanair"
+                    "id": -32222,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
                 },
                 {
                     "id": -31685,
                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
                     "name": "Vueling Airlines"
-                },
-                {
-                    "id": -30596,
-                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
-                    "name": "Wizz Air Malta"
                 }
             ],
             "stopPrices": {
                 "direct": {
-                    "isPresent": false
+                    "isPresent": true,
+                    "formattedPrice": "112 \u20ac"
                 },
                 "one": {
-                    "isPresent": true,
-                    "formattedPrice": "325 \u20ac"
+                    "isPresent": false
                 },
                 "twoOrMore": {
                     "isPresent": false
                 }
             }
         },
-        "flightsSessionId": "f8499880-397c-453c-8b92-babed867a626",
+        "flightsSessionId": "23bf89db-2abf-42c0-a336-395544d5016b",
         "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
     }
 }

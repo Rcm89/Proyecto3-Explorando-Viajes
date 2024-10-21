@@ -1,24 +1,24 @@
 {
     "status": true,
-    "timestamp": 1729455997511,
-    "sessionId": "b58aeab4-c0a2-47d9-93cf-49242ceb48eb",
+    "timestamp": 1729463583706,
+    "sessionId": "0728b8e2-7a73-491b-aab4-15075e07de3c",
     "data": {
         "context": {
             "status": "incomplete",
-            "sessionId": "ClQIARJQCk4KJGI1OGFlYWI0LWMwYTItNDdkOS05M2NmLTQ5MjQyY2ViNDhlYhACGiRiMTFlNzE3ZS0xNWJhLTQ2NDItOGM0NS0xNzNlMjU0MmEzMjMSKHVzc180NGJmMDNiMC00MDhjLTQxNTAtOTI1OC00NmYyNTEzZDg1Yjk=",
+            "sessionId": "ClQIARJQCk4KJDA3MjhiOGUyLTdhNzMtNDkxYi1hYWI0LTE1MDc1ZTA3ZGUzYxACGiQ1OTI0ZmRiYy05ZDQyLTQ1NTctOGMyZS0wMTQ5YzZhNTFlNTkSKHVzc181ODgxNDg3YS0yNDM5LTQ2MTEtODc5Yy03MGEyNzVmNzdkMmM=",
             "totalResults": 10
         },
         "itineraries": [
             {
-                "id": "13870-2411221325--32221,-31685-1-16142-2411230055|16142-2411240615--31915-1-13870-2411241400",
+                "id": "13870-2411221055--31915-0-16142-2411221215|16142-2411240805--31915-0-13870-2411240920",
                 "price": {
-                    "raw": 216.72,
-                    "formatted": "217 \u20ac",
-                    "pricingOptionId": "SFZFAGXFZ3oG"
+                    "raw": 88.9,
+                    "formatted": "89 \u20ac",
+                    "pricingOptionId": "o8tWlBOBv3Dh"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221325--32221,-31685-1-16142-2411230055",
+                        "id": "13870-2411221055--31915-0-16142-2411221215",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -37,149 +37,11 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 690,
-                        "stopCount": 1,
+                        "durationInMinutes": 80,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T13:25:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-13689-2411221325-2411221520--32221",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T13:25:00",
-                                "arrival": "2024-11-22T15:20:00",
-                                "durationInMinutes": 175,
-                                "flightNumber": "1613",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411240615--31915-1-13870-2411241400",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 465,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-24T14:00:00",
+                        "departure": "2024-11-22T10:55:00",
+                        "arrival": "2024-11-22T12:15:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
@@ -193,68 +55,8 @@
                         },
                         "segments": [
                             {
-                                "id": "16142-13689-2411240615-2411240805--31915",
+                                "id": "13870-16142-2411221055-2411221215--31915",
                                 "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241010-2411241400--31915",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -267,10 +69,23 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T10:10:00",
-                                "arrival": "2024-11-24T14:00:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "569",
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T10:55:00",
+                                "arrival": "2024-11-22T12:15:00",
+                                "durationInMinutes": 80,
+                                "flightNumber": "5315",
                                 "marketingCarrier": {
                                     "id": -31915,
                                     "name": "Ryanair",
@@ -287,44 +102,10 @@
                                 }
                             }
                         ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "tags": [
-                    "third_cheapest"
-                ],
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.999
-            },
-            {
-                "id": "13870-2411220720--32221,-31915-1-16142-2411222355|16142-2411240615--31915-1-13870-2411241400",
-                "price": {
-                    "raw": 200.84,
-                    "formatted": "201 \u20ac",
-                    "pricingOptionId": "RqljuA_Ktw7G"
-                },
-                "legs": [
+                    },
                     {
-                        "id": "13870-2411220720--32221,-31915-1-16142-2411222355",
+                        "id": "16142-2411240805--31915-0-13870-2411240920",
                         "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
                             "id": "SCQ",
                             "entityId": "95565108",
                             "name": "Santiago de Compostela",
@@ -333,19 +114,23 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 995,
-                        "stopCount": 1,
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T07:20:00",
-                        "arrival": "2024-11-22T23:55:00",
+                        "departure": "2024-11-24T08:05:00",
+                        "arrival": "2024-11-24T09:20:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
                                 {
                                     "id": -31915,
                                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
@@ -356,8 +141,21 @@
                         },
                         "segments": [
                             {
-                                "id": "13870-9320-2411220720-2411220835--32221",
+                                "id": "16142-13870-2411240805-2411240920--31915",
                                 "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
                                     "parent": {
@@ -370,203 +168,10 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "destination": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T07:20:00",
-                                "arrival": "2024-11-22T08:35:00",
+                                "departure": "2024-11-24T08:05:00",
+                                "arrival": "2024-11-24T09:20:00",
                                 "durationInMinutes": 75,
-                                "flightNumber": "1731",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "9320-16142-2411222210-2411222355--31915",
-                                "origin": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T22:10:00",
-                                "arrival": "2024-11-22T23:55:00",
-                                "durationInMinutes": 105,
-                                "flightNumber": "2573",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411240615--31915-1-13870-2411241400",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 465,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-24T14:00:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-13689-2411240615-2411240805--31915",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241010-2411241400--31915",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T10:10:00",
-                                "arrival": "2024-11-24T14:00:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "569",
+                                "flightNumber": "5316",
                                 "marketingCarrier": {
                                     "id": -31915,
                                     "name": "Ryanair",
@@ -585,32 +190,35 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
                     "isPartiallyChangeable": false,
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.157616
                 },
                 "fareAttributes": {},
                 "tags": [
                     "cheapest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.916937
+                "score": 0.999
             },
             {
-                "id": "13870-2411221610--32221,-31685-1-16142-2411230055|16142-2411241820--31685,-32221-1-13870-2411242250",
+                "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411241345--32222-0-13870-2411241500",
                 "price": {
-                    "raw": 532.82,
-                    "formatted": "533 \u20ac",
-                    "pricingOptionId": "yUCvQDk_4H7g"
+                    "raw": 178.48,
+                    "formatted": "179 \u20ac",
+                    "pricingOptionId": "G_gFc8WrJG4u"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221610--32221,-31685-1-16142-2411230055",
+                        "id": "13870-2411221150--32222-0-16142-2411221305",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -629,30 +237,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 525,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T16:10:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
+                        "departure": "2024-11-22T11:50:00",
+                        "arrival": "2024-11-22T13:05:00",
+                        "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-13689-2411221610-2411221810--32221",
+                                "id": "13870-16142-2411221150-2411221305--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -663,53 +266,6 @@
                                         "type": "City"
                                     },
                                     "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T16:10:00",
-                                "arrival": "2024-11-22T18:10:00",
-                                "durationInMinutes": 180,
-                                "flightNumber": "1621",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -726,21 +282,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
+                                "departure": "2024-11-22T11:50:00",
+                                "arrival": "2024-11-22T13:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "519",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -748,7 +304,7 @@
                         ]
                     },
                     {
-                        "id": "16142-2411241820--31685,-32221-1-13870-2411242250",
+                        "id": "16142-2411241345--32222-0-13870-2411241500",
                         "origin": {
                             "id": "SCQ",
                             "entityId": "95565108",
@@ -767,30 +323,32 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 270,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T18:20:00",
-                        "arrival": "2024-11-24T22:50:00",
+                        "departure": "2024-11-24T13:45:00",
+                        "arrival": "2024-11-24T15:00:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
                                 {
                                     "id": -32221,
                                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
                                     "name": "Iberia Express"
                                 }
                             ],
-                            "operationType": "fully_operated"
+                            "operationType": "not_operated"
                         },
                         "segments": [
                             {
-                                "id": "16142-16628-2411241820-2411241940--31685",
+                                "id": "16142-13870-2411241345-2411241500--32222",
                                 "origin": {
                                     "flightPlaceId": "SCQ",
                                     "displayCode": "SCQ",
@@ -801,53 +359,6 @@
                                         "type": "City"
                                     },
                                     "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SVQ",
-                                    "displayCode": "SVQ",
-                                    "parent": {
-                                        "flightPlaceId": "SEVI",
-                                        "displayCode": "SVQ",
-                                        "name": "Seville",
-                                        "type": "City"
-                                    },
-                                    "name": "Seville",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T18:20:00",
-                                "arrival": "2024-11-24T19:40:00",
-                                "durationInMinutes": 80,
-                                "flightNumber": "6367",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "16628-13870-2411242145-2411242250--32221",
-                                "origin": {
-                                    "flightPlaceId": "SVQ",
-                                    "displayCode": "SVQ",
-                                    "parent": {
-                                        "flightPlaceId": "SEVI",
-                                        "displayCode": "SVQ",
-                                        "name": "Seville",
-                                        "type": "City"
-                                    },
-                                    "name": "Seville",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -864,14 +375,14 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T21:45:00",
-                                "arrival": "2024-11-24T22:50:00",
-                                "durationInMinutes": 65,
-                                "flightNumber": "1764",
+                                "departure": "2024-11-24T13:45:00",
+                                "arrival": "2024-11-24T15:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "1996",
                                 "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
@@ -886,7 +397,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -894,320 +405,27 @@
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
                 },
-                "fareAttributes": {},
-                "tags": [
-                    "shortest"
-                ],
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.808802
-            },
-            {
-                "id": "13870-2411221610--32221,-31685-1-16142-2411230055|16142-2411240615--31915-1-13870-2411241400",
-                "price": {
-                    "raw": 271.14,
-                    "formatted": "272 \u20ac",
-                    "pricingOptionId": "O9QAScmYBltP"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221610--32221,-31685-1-16142-2411230055",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 525,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T16:10:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-13689-2411221610-2411221810--32221",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T16:10:00",
-                                "arrival": "2024-11-22T18:10:00",
-                                "durationInMinutes": 180,
-                                "flightNumber": "1621",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411240615--31915-1-13870-2411241400",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 465,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-24T14:00:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-13689-2411240615-2411240805--31915",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241010-2411241400--31915",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T10:10:00",
-                                "arrival": "2024-11-24T14:00:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "569",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
+                "eco": {
+                    "ecoContenderDelta": 17.802084
                 },
                 "fareAttributes": {},
                 "tags": [
                     "third_shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.77153
+                "score": 0.882415
             },
             {
-                "id": "13870-2411221205--32221,-31685-1-16142-2411230055|16142-2411240615--31915-1-13870-2411241400",
+                "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411241345--32222-0-13870-2411241500",
                 "price": {
-                    "raw": 244.44,
-                    "formatted": "245 \u20ac",
-                    "pricingOptionId": "YfGefMQOdeZx"
+                    "raw": 135.96,
+                    "formatted": "136 \u20ac",
+                    "pricingOptionId": "CmpYxV6-xgEn"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221205--32221,-31685-1-16142-2411230055",
+                        "id": "13870-2411220730--32222-0-16142-2411220845",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -1226,30 +444,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 770,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T12:05:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
+                        "departure": "2024-11-22T07:30:00",
+                        "arrival": "2024-11-22T08:45:00",
+                        "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-13689-2411221205-2411221400--32221",
+                                "id": "13870-16142-2411220730-2411220845--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -1260,53 +473,6 @@
                                         "type": "City"
                                     },
                                     "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T12:05:00",
-                                "arrival": "2024-11-22T14:00:00",
-                                "durationInMinutes": 175,
-                                "flightNumber": "1609",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -1323,21 +489,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
+                                "departure": "2024-11-22T07:30:00",
+                                "arrival": "2024-11-22T08:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "517",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -1345,7 +511,7 @@
                         ]
                     },
                     {
-                        "id": "16142-2411240615--31915-1-13870-2411241400",
+                        "id": "16142-2411241345--32222-0-13870-2411241500",
                         "origin": {
                             "id": "SCQ",
                             "entityId": "95565108",
@@ -1364,11 +530,133 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 465,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-24T14:00:00",
+                        "departure": "2024-11-24T13:45:00",
+                        "arrival": "2024-11-24T15:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411241345-2411241500--32222",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T13:45:00",
+                                "arrival": "2024-11-24T15:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "1996",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 17.802084
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest",
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.722747
+            },
+            {
+                "id": "13870-2411222020--31915-0-16142-2411222140|16142-2411240805--31915-0-13870-2411240920",
+                "price": {
+                    "raw": 102.1,
+                    "formatted": "103 \u20ac",
+                    "pricingOptionId": "R-xf5Lv9_bm-"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411222020--31915-0-16142-2411222140",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 80,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T20:20:00",
+                        "arrival": "2024-11-22T21:40:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
@@ -1382,167 +670,7 @@
                         },
                         "segments": [
                             {
-                                "id": "16142-13689-2411240615-2411240805--31915",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241010-2411241400--31915",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T10:10:00",
-                                "arrival": "2024-11-24T14:00:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "569",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.622561
-            },
-            {
-                "id": "13870-2411221325--32221,-31685-1-16142-2411230055|16142-2411240700--31685,-32221-1-13870-2411241825",
-                "price": {
-                    "raw": 298.84,
-                    "formatted": "299 \u20ac",
-                    "pricingOptionId": "QQnvXWV7mU_2"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221325--32221,-31685-1-16142-2411230055",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 690,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T13:25:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-13689-2411221325-2411221520--32221",
+                                "id": "13870-16142-2411222020-2411222140--31915",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -1557,53 +685,6 @@
                                     "country": "Spain"
                                 },
                                 "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T13:25:00",
-                                "arrival": "2024-11-22T15:20:00",
-                                "durationInMinutes": 175,
-                                "flightNumber": "1613",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
                                     "flightPlaceId": "SCQ",
                                     "displayCode": "SCQ",
                                     "parent": {
@@ -1616,426 +697,473 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411240700--31685,-32221-1-13870-2411241825",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 685,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T07:00:00",
-                        "arrival": "2024-11-24T18:25:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-13689-2411240700-2411240845--31685",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T07:00:00",
-                                "arrival": "2024-11-24T08:45:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3162",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241440-2411241825--32221",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T14:40:00",
-                                "arrival": "2024-11-24T18:25:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "1610",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": true,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "fareAttributes": {},
-                "isMashUp": true,
-                "hasFlexibleOptions": false,
-                "score": 0.622496
-            },
-            {
-                "id": "13870-2411221325--32221,-31685-1-16142-2411230055|16142-2411241820--31685,-32221-1-13870-2411242250",
-                "price": {
-                    "raw": 478.4,
-                    "formatted": "479 \u20ac",
-                    "pricingOptionId": "lStBmGkA18mA"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221325--32221,-31685-1-16142-2411230055",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 690,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T13:25:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-13689-2411221325-2411221520--32221",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T13:25:00",
-                                "arrival": "2024-11-22T15:20:00",
-                                "durationInMinutes": 175,
-                                "flightNumber": "1613",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411241820--31685,-32221-1-13870-2411242250",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 270,
-                        "stopCount": 1,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T18:20:00",
-                        "arrival": "2024-11-24T22:50:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-16628-2411241820-2411241940--31685",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SVQ",
-                                    "displayCode": "SVQ",
-                                    "parent": {
-                                        "flightPlaceId": "SEVI",
-                                        "displayCode": "SVQ",
-                                        "name": "Seville",
-                                        "type": "City"
-                                    },
-                                    "name": "Seville",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T18:20:00",
-                                "arrival": "2024-11-24T19:40:00",
+                                "departure": "2024-11-22T20:20:00",
+                                "arrival": "2024-11-22T21:40:00",
                                 "durationInMinutes": 80,
-                                "flightNumber": "6367",
+                                "flightNumber": "5317",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411240805--31915-0-13870-2411240920",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T08:05:00",
+                        "arrival": "2024-11-24T09:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
                             {
-                                "id": "16628-13870-2411242145-2411242250--32221",
+                                "id": "16142-13870-2411240805-2411240920--31915",
                                 "origin": {
-                                    "flightPlaceId": "SVQ",
-                                    "displayCode": "SVQ",
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
                                     "parent": {
-                                        "flightPlaceId": "SEVI",
-                                        "displayCode": "SVQ",
-                                        "name": "Seville",
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
                                         "type": "City"
                                     },
-                                    "name": "Seville",
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T08:05:00",
+                                "arrival": "2024-11-24T09:20:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "5316",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 23.249811
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.606176
+            },
+            {
+                "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411241345--32221-0-13870-2411241500",
+                "price": {
+                    "raw": 209,
+                    "formatted": "209 \u20ac",
+                    "pricingOptionId": "b6ZBB5GRAsqA"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221150--32222-0-16142-2411221305",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T11:50:00",
+                        "arrival": "2024-11-22T13:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-16142-2411221150-2411221305--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T11:50:00",
+                                "arrival": "2024-11-22T13:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "519",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411241345--32221-0-13870-2411241500",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T13:45:00",
+                        "arrival": "2024-11-24T15:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411241345-2411241500--32221",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T13:45:00",
+                                "arrival": "2024-11-24T15:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "1996",
+                                "marketingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 17.802084
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.499907
+            },
+            {
+                "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411242145--32222-0-13870-2411242300",
+                "price": {
+                    "raw": 241.06,
+                    "formatted": "242 \u20ac",
+                    "pricingOptionId": "S0AzDKn66Ld2"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220730--32222-0-16142-2411220845",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T07:30:00",
+                        "arrival": "2024-11-22T08:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-16142-2411220730-2411220845--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T07:30:00",
+                                "arrival": "2024-11-22T08:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "517",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411242145--32222-0-13870-2411242300",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T21:45:00",
+                        "arrival": "2024-11-24T23:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411242145-2411242300--32222",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2053,9 +1181,206 @@
                                     "country": "Spain"
                                 },
                                 "departure": "2024-11-24T21:45:00",
-                                "arrival": "2024-11-24T22:50:00",
-                                "durationInMinutes": 65,
-                                "flightNumber": "1764",
+                                "arrival": "2024-11-24T23:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "524",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.53142
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.483073
+            },
+            {
+                "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411241345--32221-0-13870-2411241500",
+                "price": {
+                    "raw": 161,
+                    "formatted": "161 \u20ac",
+                    "pricingOptionId": "tuAYqJCJdIa3"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220730--32222-0-16142-2411220845",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T07:30:00",
+                        "arrival": "2024-11-22T08:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-16142-2411220730-2411220845--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T07:30:00",
+                                "arrival": "2024-11-22T08:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "517",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411241345--32221-0-13870-2411241500",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T13:45:00",
+                        "arrival": "2024-11-24T15:00:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411241345-2411241500--32221",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T13:45:00",
+                                "arrival": "2024-11-24T15:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "1996",
                                 "marketingCarrier": {
                                     "id": -32221,
                                     "name": "Iberia Express",
@@ -2074,32 +1399,35 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
                     "isPartiallyChangeable": false,
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 17.802084
                 },
                 "fareAttributes": {},
                 "tags": [
                     "second_shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.616469
+                "score": 0.478523
             },
             {
-                "id": "13870-2411221125--32221,-31915-1-16142-2411222355|16142-2411240615--31915-1-13870-2411241400",
+                "id": "13870-2411221950--32222-0-16142-2411222105|16142-2411241345--32222-0-13870-2411241500",
                 "price": {
-                    "raw": 300.74,
-                    "formatted": "301 \u20ac",
-                    "pricingOptionId": "RyGpRhVOJsiD"
+                    "raw": 299.96,
+                    "formatted": "300 \u20ac",
+                    "pricingOptionId": "oxq5Wj4tywtA"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221125--32221,-31915-1-16142-2411222355",
+                        "id": "13870-2411221950--32222-0-16142-2411222105",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -2118,30 +1446,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 750,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T11:25:00",
-                        "arrival": "2024-11-22T23:55:00",
+                        "departure": "2024-11-22T19:50:00",
+                        "arrival": "2024-11-22T21:05:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-9320-2411221125-2411221240--32221",
+                                "id": "13870-16142-2411221950-2411222105--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -2152,53 +1475,6 @@
                                         "type": "City"
                                     },
                                     "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T11:25:00",
-                                "arrival": "2024-11-22T12:40:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "1735",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "9320-16142-2411222210-2411222355--31915",
-                                "origin": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2215,21 +1491,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T22:10:00",
-                                "arrival": "2024-11-22T23:55:00",
-                                "durationInMinutes": 105,
-                                "flightNumber": "2573",
+                                "departure": "2024-11-22T19:50:00",
+                                "arrival": "2024-11-22T21:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "523",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2237,7 +1513,7 @@
                         ]
                     },
                     {
-                        "id": "16142-2411240615--31915-1-13870-2411241400",
+                        "id": "16142-2411241345--32222-0-13870-2411241500",
                         "origin": {
                             "id": "SCQ",
                             "entityId": "95565108",
@@ -2256,25 +1532,32 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 465,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-24T14:00:00",
+                        "departure": "2024-11-24T13:45:00",
+                        "arrival": "2024-11-24T15:00:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
-                            "operationType": "fully_operated"
+                            "operating": [
+                                {
+                                    "id": -32221,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
+                                    "name": "Iberia Express"
+                                }
+                            ],
+                            "operationType": "not_operated"
                         },
                         "segments": [
                             {
-                                "id": "16142-13689-2411240615-2411240805--31915",
+                                "id": "16142-13870-2411241345-2411241500--32222",
                                 "origin": {
                                     "flightPlaceId": "SCQ",
                                     "displayCode": "SCQ",
@@ -2285,53 +1568,6 @@
                                         "type": "City"
                                     },
                                     "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241010-2411241400--31915",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2348,21 +1584,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T10:10:00",
-                                "arrival": "2024-11-24T14:00:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "569",
+                                "departure": "2024-11-24T13:45:00",
+                                "arrival": "2024-11-24T15:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "1996",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32221,
+                                    "name": "Iberia Express",
+                                    "alternateId": "I2",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2370,29 +1606,32 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
                     "isPartiallyChangeable": false,
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.53142
                 },
                 "fareAttributes": {},
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.613588
+                "score": 0.471501
             },
             {
-                "id": "13870-2411220720--32221,-31915-1-16142-2411222355|16142-2411240615--31915,-32221-1-13870-2411250055",
+                "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411240925--32222-0-13870-2411241040",
                 "price": {
-                    "raw": 204.76,
-                    "formatted": "205 \u20ac",
-                    "pricingOptionId": "7etR3KKd9SU1"
+                    "raw": 178.48,
+                    "formatted": "179 \u20ac",
+                    "pricingOptionId": "RcpMDUbhkBv_"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411220720--32221,-31915-1-16142-2411222355",
+                        "id": "13870-2411221150--32222-0-16142-2411221305",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -2411,30 +1650,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 995,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T07:20:00",
-                        "arrival": "2024-11-22T23:55:00",
+                        "departure": "2024-11-22T11:50:00",
+                        "arrival": "2024-11-22T13:05:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-9320-2411220720-2411220835--32221",
+                                "id": "13870-16142-2411221150-2411221305--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -2445,53 +1679,6 @@
                                         "type": "City"
                                     },
                                     "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T07:20:00",
-                                "arrival": "2024-11-22T08:35:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "1731",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "9320-16142-2411222210-2411222355--31915",
-                                "origin": {
-                                    "flightPlaceId": "AGP",
-                                    "displayCode": "AGP",
-                                    "parent": {
-                                        "flightPlaceId": "MALA",
-                                        "displayCode": "AGP",
-                                        "name": "M\u00e1laga",
-                                        "type": "City"
-                                    },
-                                    "name": "Malaga",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2508,21 +1695,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T22:10:00",
-                                "arrival": "2024-11-22T23:55:00",
-                                "durationInMinutes": 105,
-                                "flightNumber": "2573",
+                                "departure": "2024-11-22T11:50:00",
+                                "arrival": "2024-11-22T13:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "519",
                                 "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2530,7 +1717,7 @@
                         ]
                     },
                     {
-                        "id": "16142-2411240615--31915,-32221-1-13870-2411250055",
+                        "id": "16142-2411240925--32222-0-13870-2411241040",
                         "origin": {
                             "id": "SCQ",
                             "entityId": "95565108",
@@ -2549,30 +1736,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 1120,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T06:15:00",
-                        "arrival": "2024-11-25T00:55:00",
-                        "timeDeltaInDays": 1,
+                        "departure": "2024-11-24T09:25:00",
+                        "arrival": "2024-11-24T10:40:00",
+                        "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31915,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
-                                    "name": "Ryanair"
-                                },
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "16142-13689-2411240615-2411240805--31915",
+                                "id": "16142-13870-2411240925-2411241040--32222",
                                 "origin": {
                                     "flightPlaceId": "SCQ",
                                     "displayCode": "SCQ",
@@ -2583,53 +1765,6 @@
                                         "type": "City"
                                     },
                                     "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T06:15:00",
-                                "arrival": "2024-11-24T08:05:00",
-                                "durationInMinutes": 170,
-                                "flightNumber": "7004",
-                                "marketingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31915,
-                                    "name": "Ryanair",
-                                    "alternateId": "FR",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411242110-2411250055--32221",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2646,21 +1781,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T21:10:00",
-                                "arrival": "2024-11-25T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "1626",
+                                "departure": "2024-11-24T09:25:00",
+                                "arrival": "2024-11-24T10:40:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "518",
                                 "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2668,32 +1803,35 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
                     "isPartiallyChangeable": false,
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.53142
                 },
                 "fareAttributes": {},
                 "tags": [
-                    "second_cheapest"
+                    "third_shortest"
                 ],
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.60627
+                "score": 0.465945
             },
             {
-                "id": "13870-2411221610--32221,-31685-1-16142-2411230055|16142-2411240700--31685,-32221-1-13870-2411241825",
+                "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411242145--32222-0-13870-2411242300",
                 "price": {
-                    "raw": 353.26,
-                    "formatted": "354 \u20ac",
-                    "pricingOptionId": "wwISip3uqpX5"
+                    "raw": 279.72,
+                    "formatted": "280 \u20ac",
+                    "pricingOptionId": "ACA8bWSoWRcs"
                 },
                 "legs": [
                     {
-                        "id": "13870-2411221610--32221,-31685-1-16142-2411230055",
+                        "id": "13870-2411221150--32222-0-16142-2411221305",
                         "origin": {
                             "id": "MAD",
                             "entityId": "95565077",
@@ -2712,30 +1850,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 525,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-22T16:10:00",
-                        "arrival": "2024-11-23T00:55:00",
-                        "timeDeltaInDays": 1,
+                        "departure": "2024-11-22T11:50:00",
+                        "arrival": "2024-11-22T13:05:00",
+                        "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                },
-                                {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "13870-13689-2411221610-2411221810--32221",
+                                "id": "13870-16142-2411221150-2411221305--32222",
                                 "origin": {
                                     "flightPlaceId": "MAD",
                                     "displayCode": "MAD",
@@ -2746,53 +1879,6 @@
                                         "type": "City"
                                     },
                                     "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T16:10:00",
-                                "arrival": "2024-11-22T18:10:00",
-                                "durationInMinutes": 180,
-                                "flightNumber": "1621",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-16142-2411222110-2411230055--31685",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2809,21 +1895,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-22T21:10:00",
-                                "arrival": "2024-11-23T00:55:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3163",
+                                "departure": "2024-11-22T11:50:00",
+                                "arrival": "2024-11-22T13:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "519",
                                 "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2831,7 +1917,7 @@
                         ]
                     },
                     {
-                        "id": "16142-2411240700--31685,-32221-1-13870-2411241825",
+                        "id": "16142-2411242145--32222-0-13870-2411242300",
                         "origin": {
                             "id": "SCQ",
                             "entityId": "95565108",
@@ -2850,30 +1936,25 @@
                             "country": "Spain",
                             "isHighlighted": false
                         },
-                        "durationInMinutes": 685,
-                        "stopCount": 1,
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
                         "isSmallestStops": false,
-                        "departure": "2024-11-24T07:00:00",
-                        "arrival": "2024-11-24T18:25:00",
+                        "departure": "2024-11-24T21:45:00",
+                        "arrival": "2024-11-24T23:00:00",
                         "timeDeltaInDays": 0,
                         "carriers": {
                             "marketing": [
                                 {
-                                    "id": -31685,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                                    "name": "Vueling Airlines"
-                                },
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
                                 }
                             ],
                             "operationType": "fully_operated"
                         },
                         "segments": [
                             {
-                                "id": "16142-13689-2411240700-2411240845--31685",
+                                "id": "16142-13870-2411242145-2411242300--32222",
                                 "origin": {
                                     "flightPlaceId": "SCQ",
                                     "displayCode": "SCQ",
@@ -2884,53 +1965,6 @@
                                         "type": "City"
                                     },
                                     "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T07:00:00",
-                                "arrival": "2024-11-24T08:45:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "3162",
-                                "marketingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -31685,
-                                    "name": "Vueling Airlines",
-                                    "alternateId": "07",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            },
-                            {
-                                "id": "13689-13870-2411241440-2411241825--32221",
-                                "origin": {
-                                    "flightPlaceId": "LPA",
-                                    "displayCode": "LPA",
-                                    "parent": {
-                                        "flightPlaceId": "LPAA",
-                                        "displayCode": "LPA",
-                                        "name": "Las Palmas de Gran Canaria",
-                                        "type": "City"
-                                    },
-                                    "name": "Gran Canaria ",
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
@@ -2947,21 +1981,21 @@
                                     "type": "Airport",
                                     "country": "Spain"
                                 },
-                                "departure": "2024-11-24T14:40:00",
-                                "arrival": "2024-11-24T18:25:00",
-                                "durationInMinutes": 165,
-                                "flightNumber": "1610",
+                                "departure": "2024-11-24T21:45:00",
+                                "arrival": "2024-11-24T23:00:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "524",
                                 "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 },
                                 "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
                                     "allianceId": 0,
                                     "displayCode": ""
                                 }
@@ -2969,7 +2003,7 @@
                         ]
                     }
                 ],
-                "isSelfTransfer": true,
+                "isSelfTransfer": false,
                 "isProtectedSelfTransfer": false,
                 "farePolicy": {
                     "isChangeAllowed": false,
@@ -2977,19 +2011,22 @@
                     "isCancellationAllowed": false,
                     "isPartiallyRefundable": false
                 },
+                "eco": {
+                    "ecoContenderDelta": 16.53142
+                },
                 "fareAttributes": {},
-                "isMashUp": true,
+                "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.577779
+                "score": 0.441359
             }
         ],
         "messages": [],
         "filterStats": {
             "duration": {
-                "min": 525,
-                "max": 1120,
-                "multiCityMin": 795,
-                "multiCityMax": 2115
+                "min": 75,
+                "max": 80,
+                "multiCityMin": 150,
+                "multiCityMax": 155
             },
             "airports": [
                 {
@@ -3015,6 +2052,11 @@
             ],
             "carriers": [
                 {
+                    "id": -32222,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                    "name": "Iberia"
+                },
+                {
                     "id": -32221,
                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
                     "name": "Iberia Express"
@@ -3023,27 +2065,22 @@
                     "id": -31915,
                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
                     "name": "Ryanair"
-                },
-                {
-                    "id": -31685,
-                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/07.png",
-                    "name": "Vueling Airlines"
                 }
             ],
             "stopPrices": {
                 "direct": {
-                    "isPresent": false
+                    "isPresent": true,
+                    "formattedPrice": "89 \u20ac"
                 },
                 "one": {
-                    "isPresent": true,
-                    "formattedPrice": "201 \u20ac"
+                    "isPresent": false
                 },
                 "twoOrMore": {
                     "isPresent": false
                 }
             }
         },
-        "flightsSessionId": "b58aeab4-c0a2-47d9-93cf-49242ceb48eb",
+        "flightsSessionId": "0728b8e2-7a73-491b-aab4-15075e07de3c",
         "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
     }
 }

@@ -1,21 +1,35 @@
-id_origen,ciudad_origen,id_destino,ciudad_destino,salida,llegada,duracion(min),escalas,aerolinea,precio
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 13:25:00,2024-11-23 00:55:00,690,1,Iberia Express,216.72
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-24 14:00:00,465,1,Ryanair,216.72
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 07:20:00,2024-11-22 23:55:00,995,1,Iberia Express,200.84
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-24 14:00:00,465,1,Ryanair,200.84
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 16:10:00,2024-11-23 00:55:00,525,1,Iberia Express,532.82
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 18:20:00,2024-11-24 22:50:00,270,1,Vueling Airlines,532.82
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 16:10:00,2024-11-23 00:55:00,525,1,Iberia Express,271.14
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-24 14:00:00,465,1,Ryanair,271.14
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 12:05:00,2024-11-23 00:55:00,770,1,Iberia Express,244.44
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-24 14:00:00,465,1,Ryanair,244.44
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 13:25:00,2024-11-23 00:55:00,690,1,Iberia Express,298.84
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 07:00:00,2024-11-24 18:25:00,685,1,Vueling Airlines,298.84
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 13:25:00,2024-11-23 00:55:00,690,1,Iberia Express,478.4
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 18:20:00,2024-11-24 22:50:00,270,1,Vueling Airlines,478.4
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 11:25:00,2024-11-22 23:55:00,750,1,Iberia Express,300.74
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-24 14:00:00,465,1,Ryanair,300.74
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 07:20:00,2024-11-22 23:55:00,995,1,Iberia Express,204.76
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 06:15:00,2024-11-25 00:55:00,1120,1,Ryanair,204.76
-MAD,Madrid,SCQ,Santiago de Compostela,2024-11-22 16:10:00,2024-11-23 00:55:00,525,1,Iberia Express,353.26
-SCQ,Santiago de Compostela,MAD,Madrid,2024-11-24 07:00:00,2024-11-24 18:25:00,685,1,Vueling Airlines,353.26
+nombre,numero_reviews,rating,precio_medio_por noche,ciudad,servicios,link
+Hotel Spa Relais & Chateaux A Quinta da Auga,1116,4.5,252.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Breakfast included', 'Heated pool', 'Indoor pool']",https://www.tripadvisor.com/Hotel_Review-g187508-d1510515-Reviews-Hotel_Spa_Relais_Chateaux_A_Quinta_da_Auga-Santiago_de_Compostela_Province_of_A_Coruna.html
+Hotel Compostela,764,4.0,124.0,Santiago de Compostela,"['Free Wifi', 'Room service', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d248531-Reviews-Hotel_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Restaurante Asador De Roxos Casa Albardonedo,233,4.5,91.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Breakfast included', 'Restaurant', 'Pets Allowed']",https://www.tripadvisor.com/Hotel_Review-g1870402-d1836140-Reviews-Hotel_Restaurante_Asador_De_Roxos_Casa_Albardonedo-Roxos_Santiago_de_Compostela_Provi.html
+Gran Hotel Los Abetos,808,4.5,135.5,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Outdoor pool', 'Restaurant', 'Room service']",https://www.tripadvisor.com/Hotel_Review-g187508-d231702-Reviews-Gran_Hotel_Los_Abetos-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Casa Grande do Bachao,431,5.0,120.5,Santiago de Compostela,"['Free parking', 'Pool', 'Outdoor pool', 'Restaurant', 'Pets Allowed']",https://www.tripadvisor.com/Hotel_Review-g187508-d578149-Reviews-Casa_Grande_do_Bachao-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+"Hotel Palacio del Carmen, Autograph Collection",853,4.5,226.5,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Restaurant', 'Room service', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d579430-Reviews-Hotel_Palacio_del_Carmen_Autograph_Collection-Santiago_de_Compostela_Province_of_A_Coru.html
+Hotel Real,145,4.0,69.5,Santiago de Compostela,"['Free Wifi', 'Breakfast included', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d195772-Reviews-Hotel_Real-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Monte do Gozo,11,3.5,51.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Pool', 'Restaurant', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d17644326-Reviews-Monte_do_Gozo-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+La  Credencial,43,4.5,32.0,Santiago de Compostela,['Free Wifi'],https://www.tripadvisor.com/Hotel_Review-g187508-d10090105-Reviews-La_Credencial-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Santiago Apostol,338,3.5,79.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Restaurant', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d228528-Reviews-Hotel_Santiago_Apostol-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Eurostars San Lazaro,555,4.0,101.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Restaurant', 'Room service', 'Pets Allowed']",https://www.tripadvisor.com/Hotel_Review-g187508-d482510-Reviews-Eurostars_San_Lazaro-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Altaïr,608,4.5,122.0,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d583203-Reviews-Hotel_Altair-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Rua Villar,315,4.5,122.0,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d483859-Reviews-Hotel_Rua_Villar-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Oca Puerta del Camino,649,4.0,101.5,Santiago de Compostela,"['Free Wifi', 'Pool', 'Outdoor pool', 'Restaurant', 'Airport transportation']",https://www.tripadvisor.com/Hotel_Review-g187508-d234585-Reviews-Hotel_Oca_Puerta_del_Camino-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Santiago Plaza Affiliated by Melia,940,4.0,118.0,Santiago de Compostela,"['Free Wifi', 'Restaurant', 'Room service', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d234587-Reviews-Hotel_Santiago_Plaza_Affiliated_by_Melia-Santiago_de_Compostela_Province_of_A_Coruna_Ga.html
+Hotel Montes,4,4.5,138.0,Santiago de Compostela,"['Free Wifi', 'Airport transportation', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d3472761-Reviews-Hotel_Montes-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Alda San Carlos,256,4.0,104.0,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d244677-Reviews-Hotel_Alda_San_Carlos-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel San Lazaro,181,4.0,73.0,Santiago de Compostela,"['Free Wifi', 'Restaurant', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1389231-Reviews-Hotel_San_Lazaro-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Bonaval,289,4.5,91.5,Santiago de Compostela,"['Free Wifi', 'Breakfast included', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1160876-Reviews-Hotel_Bonaval-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Eurostars Gran Hotel Santiago,559,4.0,112.0,Santiago de Compostela,"['Restaurant', 'Room service', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d501752-Reviews-Eurostars_Gran_Hotel_Santiago-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Windsor,200,4.0,63.5,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1389234-Reviews-Hotel_Windsor-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Rua Villar,315,4.5,122.0,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d483859-Reviews-Hotel_Rua_Villar-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Plaza Obradoiro,17,4.5,161.5,Santiago de Compostela,['Free Wifi'],https://www.tripadvisor.com/Hotel_Review-g187508-d25075247-Reviews-Hotel_Plaza_Obradoiro-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Restaurante San Paio,65,3.0,67.0,Santiago de Compostela,"['Restaurant', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1389246-Reviews-Hotel_Restaurante_San_Paio-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Carris Casa de la Troya,452,4.5,140.0,Santiago de Compostela,"['Free Wifi', 'Room service', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1983523-Reviews-Hotel_Carris_Casa_de_la_Troya-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Castro,107,3.5,64.0,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Restaurant', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d577883-Reviews-Hotel_Castro-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Congreso,922,3.5,66.5,Santiago de Compostela,"['Free Wifi', 'Free parking', 'Pool', 'Outdoor pool', 'Restaurant']",https://www.tripadvisor.com/Hotel_Review-g187508-d232804-Reviews-Hotel_Congreso-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Altaïr,608,4.5,122.0,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d583203-Reviews-Hotel_Altair-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Smart Boutique Hotel Literario San Bieito,345,4.5,116.5,Santiago de Compostela,"['Free Wifi', 'Breakfast included', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d5865931-Reviews-Smart_Boutique_Hotel_Literario_San_Bieito-Santiago_de_Compostela_Province_of_A_Coruna_.html
+Hotel Universal,541,3.5,75.0,Santiago de Compostela,['Free Wifi'],https://www.tripadvisor.com/Hotel_Review-g187508-d238611-Reviews-Hotel_Universal-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Exe Area Central,354,3.5,99.5,Santiago de Compostela,['Free Wifi'],https://www.tripadvisor.com/Hotel_Review-g187508-d238654-Reviews-Hotel_Exe_Area_Central-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Apartamentos Cancelas By Bossh Hotels,30,3.0,70.0,Santiago de Compostela,"['Free Wifi', 'Free parking']",https://www.tripadvisor.com/Hotel_Review-g187508-d10265761-Reviews-Apartamentos_Cancelas_By_Bossh_Hotels-Santiago_de_Compostela_Province_of_A_Coruna_Gal.html
+Moure Hotel,368,4.5,126.0,Santiago de Compostela,"['Free Wifi', 'Breakfast included', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d1389221-Reviews-Moure_Hotel-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
+Hotel Montenegro Compostela,250,4.0,112.5,Santiago de Compostela,"['Free Wifi', 'Bar/Lounge']",https://www.tripadvisor.com/Hotel_Review-g187508-d3370258-Reviews-Hotel_Montenegro_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html
