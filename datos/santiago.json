@@ -1,11 +1,11 @@
 {
     "status": true,
-    "timestamp": 1729463583706,
-    "sessionId": "0728b8e2-7a73-491b-aab4-15075e07de3c",
+    "timestamp": 1729479515076,
+    "sessionId": "bddf2782-8b4d-4380-abcc-086884e0caee",
     "data": {
         "context": {
             "status": "incomplete",
-            "sessionId": "ClQIARJQCk4KJDA3MjhiOGUyLTdhNzMtNDkxYi1hYWI0LTE1MDc1ZTA3ZGUzYxACGiQ1OTI0ZmRiYy05ZDQyLTQ1NTctOGMyZS0wMTQ5YzZhNTFlNTkSKHVzc181ODgxNDg3YS0yNDM5LTQ2MTEtODc5Yy03MGEyNzVmNzdkMmM=",
+            "sessionId": "ClQIARJQCk4KJGJkZGYyNzgyLThiNGQtNDM4MC1hYmNjLTA4Njg4NGUwY2FlZRACGiRmYTk1NTJiMy1iN2IwLTRlM2UtYWU0MC1lZmE3YTc4Mjc0MDUSKHVzc19lN2ZlODc2Yi0yZTg5LTQ1MGQtYjExNi1jOGJjZWRkYjgwYWQ=",
             "totalResults": 10
         },
         "itineraries": [
@@ -410,18 +410,18 @@
                 },
                 "fareAttributes": {},
                 "tags": [
-                    "third_shortest"
+                    "second_shortest"
                 ],
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.882415
+                "score": 0.879219
             },
             {
                 "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411241345--32222-0-13870-2411241500",
                 "price": {
-                    "raw": 135.96,
-                    "formatted": "136 \u20ac",
-                    "pricingOptionId": "CmpYxV6-xgEn"
+                    "raw": 137.99,
+                    "formatted": "138 \u20ac",
+                    "pricingOptionId": "k1WxyqGL7whH"
                 },
                 "legs": [
                     {
@@ -622,7 +622,7 @@
                 ],
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.722747
+                "score": 0.706532
             },
             {
                 "id": "13870-2411222020--31915-0-16142-2411222140|16142-2411240805--31915-0-13870-2411240920",
@@ -822,204 +822,7 @@
                 ],
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.606176
-            },
-            {
-                "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411241345--32221-0-13870-2411241500",
-                "price": {
-                    "raw": 209,
-                    "formatted": "209 \u20ac",
-                    "pricingOptionId": "b6ZBB5GRAsqA"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411221150--32222-0-16142-2411221305",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 75,
-                        "stopCount": 0,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T11:50:00",
-                        "arrival": "2024-11-22T13:05:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32222,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
-                                    "name": "Iberia"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-16142-2411221150-2411221305--32222",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T11:50:00",
-                                "arrival": "2024-11-22T13:05:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "519",
-                                "marketingCarrier": {
-                                    "id": -32222,
-                                    "name": "Iberia",
-                                    "alternateId": "IB",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32222,
-                                    "name": "Iberia",
-                                    "alternateId": "IB",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411241345--32221-0-13870-2411241500",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 75,
-                        "stopCount": 0,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T13:45:00",
-                        "arrival": "2024-11-24T15:00:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-13870-2411241345-2411241500--32221",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T13:45:00",
-                                "arrival": "2024-11-24T15:00:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "1996",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": false,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "eco": {
-                    "ecoContenderDelta": 17.802084
-                },
-                "fareAttributes": {},
-                "isMashUp": false,
-                "hasFlexibleOptions": false,
-                "score": 0.499907
+                "score": 0.596341
             },
             {
                 "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411242145--32222-0-13870-2411242300",
@@ -1214,209 +1017,12 @@
                     "ecoContenderDelta": 16.53142
                 },
                 "fareAttributes": {},
-                "isMashUp": false,
-                "hasFlexibleOptions": false,
-                "score": 0.483073
-            },
-            {
-                "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411241345--32221-0-13870-2411241500",
-                "price": {
-                    "raw": 161,
-                    "formatted": "161 \u20ac",
-                    "pricingOptionId": "tuAYqJCJdIa3"
-                },
-                "legs": [
-                    {
-                        "id": "13870-2411220730--32222-0-16142-2411220845",
-                        "origin": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 75,
-                        "stopCount": 0,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-22T07:30:00",
-                        "arrival": "2024-11-22T08:45:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32222,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
-                                    "name": "Iberia"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "13870-16142-2411220730-2411220845--32222",
-                                "origin": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-22T07:30:00",
-                                "arrival": "2024-11-22T08:45:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "517",
-                                "marketingCarrier": {
-                                    "id": -32222,
-                                    "name": "Iberia",
-                                    "alternateId": "IB",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32222,
-                                    "name": "Iberia",
-                                    "alternateId": "IB",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    },
-                    {
-                        "id": "16142-2411241345--32221-0-13870-2411241500",
-                        "origin": {
-                            "id": "SCQ",
-                            "entityId": "95565108",
-                            "name": "Santiago de Compostela",
-                            "displayCode": "SCQ",
-                            "city": "Santiago de Compostela",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "destination": {
-                            "id": "MAD",
-                            "entityId": "95565077",
-                            "name": "Madrid",
-                            "displayCode": "MAD",
-                            "city": "Madrid",
-                            "country": "Spain",
-                            "isHighlighted": false
-                        },
-                        "durationInMinutes": 75,
-                        "stopCount": 0,
-                        "isSmallestStops": false,
-                        "departure": "2024-11-24T13:45:00",
-                        "arrival": "2024-11-24T15:00:00",
-                        "timeDeltaInDays": 0,
-                        "carriers": {
-                            "marketing": [
-                                {
-                                    "id": -32221,
-                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                                    "name": "Iberia Express"
-                                }
-                            ],
-                            "operationType": "fully_operated"
-                        },
-                        "segments": [
-                            {
-                                "id": "16142-13870-2411241345-2411241500--32221",
-                                "origin": {
-                                    "flightPlaceId": "SCQ",
-                                    "displayCode": "SCQ",
-                                    "parent": {
-                                        "flightPlaceId": "SANC",
-                                        "displayCode": "SCQ",
-                                        "name": "Santiago de Compostela",
-                                        "type": "City"
-                                    },
-                                    "name": "Santiago de Compostela",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "destination": {
-                                    "flightPlaceId": "MAD",
-                                    "displayCode": "MAD",
-                                    "parent": {
-                                        "flightPlaceId": "MADR",
-                                        "displayCode": "MAD",
-                                        "name": "Madrid",
-                                        "type": "City"
-                                    },
-                                    "name": "Madrid",
-                                    "type": "Airport",
-                                    "country": "Spain"
-                                },
-                                "departure": "2024-11-24T13:45:00",
-                                "arrival": "2024-11-24T15:00:00",
-                                "durationInMinutes": 75,
-                                "flightNumber": "1996",
-                                "marketingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                },
-                                "operatingCarrier": {
-                                    "id": -32221,
-                                    "name": "Iberia Express",
-                                    "alternateId": "I2",
-                                    "allianceId": 0,
-                                    "displayCode": ""
-                                }
-                            }
-                        ]
-                    }
-                ],
-                "isSelfTransfer": false,
-                "isProtectedSelfTransfer": false,
-                "farePolicy": {
-                    "isChangeAllowed": false,
-                    "isPartiallyChangeable": false,
-                    "isCancellationAllowed": false,
-                    "isPartiallyRefundable": false
-                },
-                "eco": {
-                    "ecoContenderDelta": 17.802084
-                },
-                "fareAttributes": {},
                 "tags": [
-                    "second_shortest"
+                    "third_shortest"
                 ],
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.478523
+                "score": 0.47374
             },
             {
                 "id": "13870-2411221950--32222-0-16142-2411222105|16142-2411241345--32222-0-13870-2411241500",
@@ -1620,7 +1226,7 @@
                 "fareAttributes": {},
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.471501
+                "score": 0.463554
             },
             {
                 "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411240925--32222-0-13870-2411241040",
@@ -1816,11 +1422,11 @@
                 },
                 "fareAttributes": {},
                 "tags": [
-                    "third_shortest"
+                    "second_shortest"
                 ],
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.465945
+                "score": 0.44855
             },
             {
                 "id": "13870-2411221150--32222-0-16142-2411221305|16142-2411242145--32222-0-13870-2411242300",
@@ -2017,7 +1623,405 @@
                 "fareAttributes": {},
                 "isMashUp": false,
                 "hasFlexibleOptions": false,
-                "score": 0.441359
+                "score": 0.43258
+            },
+            {
+                "id": "13870-2411220730--32222-0-16142-2411220845|16142-2411240925--32222-0-13870-2411241040",
+                "price": {
+                    "raw": 137.99,
+                    "formatted": "138 \u20ac",
+                    "pricingOptionId": "kkFm09FUW6fd"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411220730--32222-0-16142-2411220845",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T07:30:00",
+                        "arrival": "2024-11-22T08:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-16142-2411220730-2411220845--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T07:30:00",
+                                "arrival": "2024-11-22T08:45:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "517",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411240925--32222-0-13870-2411241040",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T09:25:00",
+                        "arrival": "2024-11-24T10:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411240925-2411241040--32222",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T09:25:00",
+                                "arrival": "2024-11-24T10:40:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "518",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 16.53142
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest",
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.412213
+            },
+            {
+                "id": "13870-2411221950--32222-0-16142-2411222105|16142-2411240925--32222-0-13870-2411241040",
+                "price": {
+                    "raw": 299.96,
+                    "formatted": "300 \u20ac",
+                    "pricingOptionId": "jR1siJzTE_oC"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2411221950--32222-0-16142-2411222105",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-22T19:50:00",
+                        "arrival": "2024-11-22T21:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-16142-2411221950-2411222105--32222",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-22T19:50:00",
+                                "arrival": "2024-11-22T21:05:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "523",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16142-2411240925--32222-0-13870-2411241040",
+                        "origin": {
+                            "id": "SCQ",
+                            "entityId": "95565108",
+                            "name": "Santiago de Compostela",
+                            "displayCode": "SCQ",
+                            "city": "Santiago de Compostela",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 75,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-11-24T09:25:00",
+                        "arrival": "2024-11-24T10:40:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -32222,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                    "name": "Iberia"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "16142-13870-2411240925-2411241040--32222",
+                                "origin": {
+                                    "flightPlaceId": "SCQ",
+                                    "displayCode": "SCQ",
+                                    "parent": {
+                                        "flightPlaceId": "SANC",
+                                        "displayCode": "SCQ",
+                                        "name": "Santiago de Compostela",
+                                        "type": "City"
+                                    },
+                                    "name": "Santiago de Compostela",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-11-24T09:25:00",
+                                "arrival": "2024-11-24T10:40:00",
+                                "durationInMinutes": 75,
+                                "flightNumber": "518",
+                                "marketingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -32222,
+                                    "name": "Iberia",
+                                    "alternateId": "IB",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 15.260756
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.385278
             }
         ],
         "messages": [],
@@ -2057,11 +2061,6 @@
                     "name": "Iberia"
                 },
                 {
-                    "id": -32221,
-                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I2.png",
-                    "name": "Iberia Express"
-                },
-                {
                     "id": -31915,
                     "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
                     "name": "Ryanair"
@@ -2080,7 +2079,7 @@
                 }
             }
         },
-        "flightsSessionId": "0728b8e2-7a73-491b-aab4-15075e07de3c",
+        "flightsSessionId": "bddf2782-8b4d-4380-abcc-086884e0caee",
         "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
     }
 }

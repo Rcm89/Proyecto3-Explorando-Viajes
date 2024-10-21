@@ -1,20 +1,19 @@
 id_origen,ciudad_origen,id_destino,ciudad_destino,salida,llegada,duracion(min),escalas,aerolinea,precio
-MAD,Madrid,BCN,Barcelona,2024-11-22 07:15:00,2024-11-22 08:30:00,75,0,Iberia,119.81
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,119.81
-MAD,Madrid,BCN,Barcelona,2024-11-22 10:30:00,2024-11-22 11:45:00,75,0,Iberia,149.04
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,149.04
-MAD,Madrid,BCN,Barcelona,2024-11-22 06:45:00,2024-11-22 08:00:00,75,0,Iberia,111.98
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,111.98
-MAD,Madrid,BCN,Barcelona,2024-11-22 11:30:00,2024-11-22 12:45:00,75,0,Iberia,149.04
-MAD,Madrid,BCN,Barcelona,2024-11-22 13:15:00,2024-11-22 14:30:00,75,0,Iberia,152.72
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,152.72
-MAD,Madrid,BCN,Barcelona,2024-11-22 08:30:00,2024-11-22 09:45:00,75,0,Iberia,141.05
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,141.05
-MAD,Madrid,BCN,Barcelona,2024-11-22 07:15:00,2024-11-22 08:30:00,75,0,Iberia,132.47
-BCN,Barcelona,MAD,Madrid,2024-11-24 20:30:00,2024-11-24 22:00:00,90,0,Vueling Airlines,132.47
-MAD,Madrid,BCN,Barcelona,2024-11-22 06:45:00,2024-11-22 08:00:00,75,0,Iberia,125.11
-BCN,Barcelona,MAD,Madrid,2024-11-24 20:30:00,2024-11-24 22:00:00,90,0,Vueling Airlines,125.11
-MAD,Madrid,BCN,Barcelona,2024-11-22 15:10:00,2024-11-22 16:35:00,85,0,Air Europa,136.14
-BCN,Barcelona,MAD,Madrid,2024-11-24 15:15:00,2024-11-24 16:40:00,85,0,Iberia,136.14
-MAD,Madrid,BCN,Barcelona,2024-11-22 08:30:00,2024-11-22 09:45:00,75,0,Iberia,154.56
-BCN,Barcelona,MAD,Madrid,2024-11-24 20:30:00,2024-11-24 22:00:00,90,0,Vueling Airlines,154.56
+MAD,Madrid,BCN,Barcelona,2024-11-22 18:15:00,2024-11-22 19:30:00,75,0,Vueling Airlines,217.98
+BCN,Barcelona,MAD,Madrid,2024-11-24 20:30:00,2024-11-24 22:00:00,90,0,Vueling Airlines,217.98
+MAD,Madrid,BCN,Barcelona,2024-11-22 18:15:00,2024-11-22 19:30:00,75,0,Vueling Airlines,211.98
+BCN,Barcelona,MAD,Madrid,2024-11-24 11:50:00,2024-11-24 13:15:00,85,0,Vueling Airlines,211.98
+MAD,Madrid,BCN,Barcelona,2024-11-22 18:15:00,2024-11-22 19:30:00,75,0,Vueling Airlines,241.98
+BCN,Barcelona,MAD,Madrid,2024-11-24 16:25:00,2024-11-24 17:45:00,80,0,Vueling Airlines,241.98
+MAD,Madrid,BCN,Barcelona,2024-11-22 18:15:00,2024-11-22 19:30:00,75,0,Vueling Airlines,357.08
+BCN,Barcelona,MAD,Madrid,2024-11-24 10:45:00,2024-11-24 19:40:00,535,1,Vueling Airlines,357.08
+MAD,Madrid,BCN,Barcelona,2024-11-22 09:00:00,2024-11-22 14:55:00,355,1,easyJet,571.26
+BCN,Barcelona,MAD,Madrid,2024-11-24 15:20:00,2024-11-24 21:15:00,355,1,easyJet,571.26
+MAD,Madrid,BCN,Barcelona,2024-11-22 16:00:00,2024-11-22 21:05:00,305,1,easyJet,521.44
+BCN,Barcelona,MAD,Madrid,2024-11-24 15:20:00,2024-11-24 21:15:00,355,1,easyJet,521.44
+MAD,Madrid,BCN,Barcelona,2024-11-22 06:30:00,2024-11-22 14:55:00,505,1,Air Europa,551.77
+BCN,Barcelona,MAD,Madrid,2024-11-24 15:20:00,2024-11-24 21:15:00,355,1,easyJet,551.77
+MAD,Madrid,BCN,Barcelona,2024-11-22 09:00:00,2024-11-22 14:55:00,355,1,easyJet,632.99
+BCN,Barcelona,MAD,Madrid,2024-11-24 15:20:00,2024-11-24 22:20:00,420,1,easyJet,632.99
+MAD,Madrid,BCN,Barcelona,2024-11-22 16:00:00,2024-11-22 21:05:00,305,1,easyJet,583.17
+BCN,Barcelona,MAD,Madrid,2024-11-24 15:20:00,2024-11-24 22:20:00,420,1,easyJet,583.17

@@ -3,8 +3,47 @@
     "total_pages": 11,
     "current_page": 1,
     "total_items_count": 307,
-    "items_count": 34,
+    "items_count": 31,
     "results": [
+        {
+            "id": 234587,
+            "name": "Hotel Santiago Plaza Affiliated by Melia",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d234587-Reviews-Hotel_Santiago_Plaza_Affiliated_by_Melia-Santiago_de_Compostela_Province_of_A_Coruna_Ga.html",
+            "reviews": 940,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 68,
+                "max": 168
+            },
+            "phone": "+34 981 53 49 49",
+            "address": "C/ Restollal, 24, 15702, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "C/ Restollal, 24",
+                "city": null,
+                "postal_code": "15702",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 27,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.86489,
+            "longitude": -8.54356,
+            "amenities": [
+                "Free Wifi",
+                "Restaurant",
+                "Room service",
+                "Bar/Lounge"
+            ],
+            "providers": [
+                "Melia.com",
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com"
+            ]
+        },
         {
             "id": 1510515,
             "name": "Hotel Spa Relais & Chateaux A Quinta da Auga",
@@ -39,48 +78,88 @@
                 "Indoor pool"
             ],
             "providers": [
-                "Expedia.com",
                 "Booking.com",
-                "Hotels.com",
-                "ZenHotels.com"
+                "Expedia.com",
+                "Trip.com",
+                "StayForLong"
             ]
         },
         {
-            "id": 248531,
-            "name": "Hotel Compostela",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d248531-Reviews-Hotel_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 764,
-            "rating": 4,
+            "id": 584984,
+            "name": "NH Collection Santiago de Compostela",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d584984-Reviews-NH_Collection_Santiago_de_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galici.html",
+            "reviews": 2317,
+            "rating": 4.5,
             "price_range_usd": {
-                "min": 71,
+                "min": 97,
                 "max": 177
             },
-            "phone": "+34 981 58 57 00",
-            "address": "Rua H\u00f3rreo, 1, 15702, Santiago de Compostela Spain",
+            "phone": "+34 981 55 80 70",
+            "address": "Avenida Burgo das Nacions s/n Campus Norte, 15705, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "Rua H\u00f3rreo, 1",
+                "street": "Avenida Burgo das Nacions s/n, Campus Norte",
                 "city": null,
-                "postal_code": "15702",
+                "postal_code": "15705",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 25,
+                "current_rank": 19,
                 "total": 69
             },
             "featured_image": null,
-            "latitude": 42.876884,
-            "longitude": -8.54388,
+            "latitude": 42.889473,
+            "longitude": -8.543447,
             "amenities": [
                 "Free Wifi",
-                "Room service",
-                "Bar/Lounge"
+                "Free parking",
+                "Pool",
+                "Heated pool",
+                "Indoor pool"
+            ],
+            "providers": [
+                "Booking.com",
+                "NH Collection",
+                "Expedia.com",
+                "StayForLong"
+            ]
+        },
+        {
+            "id": 195761,
+            "name": "Parador de Santiago De Compostela",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d195761-Reviews-Parador_de_Santiago_De_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 3147,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 155,
+                "max": 346
+            },
+            "phone": "+34 981 58 22 00",
+            "address": "Praza do Obradoiro, 1, 15705, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Praza do Obradoiro, 1",
+                "city": null,
+                "postal_code": "15705",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 14,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.881546,
+            "longitude": -8.545907,
+            "amenities": [
+                "Free Wifi",
+                "Restaurant",
+                "Room service"
             ],
             "providers": [
                 "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "Lol.travel"
+                "StayForLong"
             ]
         },
         {
@@ -157,50 +236,10 @@
                 "Room service"
             ],
             "providers": [
+                "Booking.com",
                 "Expedia.com",
-                "Booking.com",
                 "Hotels.com",
-                "Lol.travel"
-            ]
-        },
-        {
-            "id": 578149,
-            "name": "Casa Grande do Bachao",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d578149-Reviews-Casa_Grande_do_Bachao-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 431,
-            "rating": 5,
-            "price_range_usd": {
-                "min": 113,
-                "max": 128
-            },
-            "phone": "+34 981 55 87 05",
-            "address": "Monte Bachao Santa Cristina de Fecha, 15898, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Monte Bachao Santa Cristina de Fecha",
-                "city": null,
-                "postal_code": "15898",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 2,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.974483,
-            "longitude": -8.588368,
-            "amenities": [
-                "Free parking",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant",
-                "Pets Allowed"
-            ],
-            "providers": [
-                "Booking.com",
-                "eDreams",
-                "Priceline",
-                "Agoda.com"
+                "Vio.com"
             ]
         },
         {
@@ -237,124 +276,10 @@
                 "Bar/Lounge"
             ],
             "providers": [
-                "Expedia.com",
                 "Booking.com",
+                "Expedia.com",
                 "Hotels.com",
-                "Vio.com"
-            ]
-        },
-        {
-            "id": 195772,
-            "name": "Hotel Real",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d195772-Reviews-Hotel_Real-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 145,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 50,
-                "max": 89
-            },
-            "phone": "+34 981 56 92 90",
-            "address": "Rua Caldeireria 49, 15703, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Caldeireria 49",
-                "city": null,
-                "postal_code": "15703",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 46,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.878345,
-            "longitude": -8.543031,
-            "amenities": [
-                "Free Wifi",
-                "Breakfast included",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Agoda.com",
-                "StayForLong",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 17644326,
-            "name": "Monte do Gozo",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d17644326-Reviews-Monte_do_Gozo-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 11,
-            "rating": 3.5,
-            "price_range_usd": {
-                "min": 43,
-                "max": 59
-            },
-            "phone": "+34 881 25 53 86",
-            "address": "Rua do Gozo 18, 15820, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua do Gozo 18",
-                "city": null,
-                "postal_code": "15820",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 61,
-                "total": 96
-            },
-            "featured_image": null,
-            "latitude": 42.886337,
-            "longitude": -8.501068,
-            "amenities": [
-                "Free Wifi",
-                "Free parking",
-                "Pool",
-                "Restaurant",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Trip.com",
-                "Lol.travel"
-            ]
-        },
-        {
-            "id": 10090105,
-            "name": "La  Credencial",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d10090105-Reviews-La_Credencial-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 43,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 24,
-                "max": 40
-            },
-            "phone": "+34 981 06 80 83",
-            "address": "Rua Fonte dos Concheiros 13 Albuergue Turistico de Peregrinos, 15703, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Fonte dos Concheiros 13, Albuergue Turistico de Peregrinos",
-                "city": null,
-                "postal_code": "15703",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 10,
-                "total": 96
-            },
-            "featured_image": null,
-            "latitude": 42.88518,
-            "longitude": -8.53177,
-            "amenities": [
-                "Free Wifi"
-            ],
-            "providers": [
-                "Official Hotel Site",
-                "StayForLong",
-                "Booking.com",
-                "Expedia.com"
+                "Trip.com"
             ]
         },
         {
@@ -430,47 +355,88 @@
                 "Pets Allowed"
             ],
             "providers": [
-                "Expedia.com",
                 "Booking.com",
+                "Expedia.com",
                 "Hotels.com",
-                "Lol.travel"
+                "Trip.com"
             ]
         },
         {
-            "id": 583203,
-            "name": "Hotel Alta\u00efr",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d583203-Reviews-Hotel_Altair-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 608,
-            "rating": 4.5,
+            "id": 1058156,
+            "name": "Akelarre Hotel",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1058156-Reviews-Akelarre_Hotel-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 47,
+            "rating": 4,
             "price_range_usd": {
-                "min": 81,
-                "max": 163
+                "min": 66,
+                "max": 84
             },
-            "phone": "+34 981 55 47 12",
-            "address": "R\u00faa dos Loureiros 12, 15704, Santiago de Compostela Spain",
+            "phone": "34 981 55 268990",
+            "address": "Avenida San Marcos 37-B, 15820, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "R\u00faa dos Loureiros 12",
+                "street": "Avenida San Marcos 37-B",
                 "city": null,
-                "postal_code": "15704",
+                "postal_code": "15820",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 3,
-                "total": 69
+                "current_rank": 31,
+                "total": 95
             },
             "featured_image": null,
-            "latitude": 42.88388,
-            "longitude": -8.54269,
+            "latitude": 42.892284,
+            "longitude": -8.490439,
             "amenities": [
                 "Free Wifi",
+                "Free parking",
+                "Restaurant",
+                "Room service",
                 "Bar/Lounge"
             ],
             "providers": [
                 "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "Vio.com"
+                "eDreams"
+            ]
+        },
+        {
+            "id": 24121482,
+            "name": "Exe Peregrino",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d24121482-Reviews-Exe_Peregrino-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 38,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 65,
+                "max": 142
+            },
+            "phone": "+34 981 79 52 99",
+            "address": "Av. De Rosal\u00eda De Castro, S/N, 15706, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Av. De Rosal\u00eda De Castro, S/N",
+                "city": null,
+                "postal_code": "15706",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 53,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.8716,
+            "longitude": -8.55544,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Restaurant"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "Official Site"
             ]
         },
         {
@@ -505,198 +471,9 @@
             ],
             "providers": [
                 "Booking.com",
-                "eDreams",
-                "Skyscanner.com",
-                "Priceline"
-            ]
-        },
-        {
-            "id": 234585,
-            "name": "Hotel Oca Puerta del Camino",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d234585-Reviews-Hotel_Oca_Puerta_del_Camino-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 649,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 62,
-                "max": 141
-            },
-            "phone": "+34 981 56 94 00",
-            "address": "Rua Miguel Ferro Caaveiro s/n, 15707, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Miguel Ferro Caaveiro s/n",
-                "city": null,
-                "postal_code": "15707",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 16,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.884068,
-            "longitude": -8.513224,
-            "amenities": [
-                "Free Wifi",
-                "Pool",
-                "Outdoor pool",
-                "Restaurant",
-                "Airport transportation"
-            ],
-            "providers": [
-                "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 234587,
-            "name": "Hotel Santiago Plaza Affiliated by Melia",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d234587-Reviews-Hotel_Santiago_Plaza_Affiliated_by_Melia-Santiago_de_Compostela_Province_of_A_Coruna_Ga.html",
-            "reviews": 940,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 68,
-                "max": 168
-            },
-            "phone": "+34 981 53 49 49",
-            "address": "C/ Restollal, 24, 15702, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "C/ Restollal, 24",
-                "city": null,
-                "postal_code": "15702",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 27,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.86489,
-            "longitude": -8.54356,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Room service",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Expedia.com",
-                "Booking.com",
-                "Melia.com",
-                "Algotels"
-            ]
-        },
-        {
-            "id": 3472761,
-            "name": "Hotel Montes",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d3472761-Reviews-Hotel_Montes-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 4,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 82,
-                "max": 194
-            },
-            "phone": "+34 654 41 05 46",
-            "address": "Rua Raina 11, 15704, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Raina 11",
-                "city": null,
-                "postal_code": "15704",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 64,
-                "total": 95
-            },
-            "featured_image": null,
-            "latitude": 42.879517,
-            "longitude": -8.544786,
-            "amenities": [
-                "Free Wifi",
-                "Airport transportation",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com"
-            ]
-        },
-        {
-            "id": 244677,
-            "name": "Hotel Alda San Carlos",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d244677-Reviews-Hotel_Alda_San_Carlos-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 256,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 52,
-                "max": 156
-            },
-            "phone": "+34 881 09 29 83",
-            "address": "C/ H\u00f3rreo 106, 15702, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "C/ H\u00f3rreo 106",
-                "city": null,
-                "postal_code": "15702",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 35,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.872707,
-            "longitude": -8.544815,
-            "amenities": [
-                "Free Wifi",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "eDreams",
-                "Priceline",
-                "Lol.travel"
-            ]
-        },
-        {
-            "id": 1389231,
-            "name": "Hotel San Lazaro",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1389231-Reviews-Hotel_San_Lazaro-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 181,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 55,
-                "max": 91
-            },
-            "phone": "+34 981 58 43 44",
-            "address": "Rua Valino 1, 15707, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Valino 1",
-                "city": null,
-                "postal_code": "15707",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 27,
-                "total": 95
-            },
-            "featured_image": null,
-            "latitude": 42.88705,
-            "longitude": -8.52606,
-            "amenities": [
-                "Free Wifi",
-                "Restaurant",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Skyscanner.com",
-                "eDreams",
-                "Priceline"
+                "Skyscanner.com"
             ]
         },
         {
@@ -732,9 +509,45 @@
             ],
             "providers": [
                 "Booking.com",
-                "eDreams",
-                "Agoda.com",
-                "Vio.com"
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
+            ]
+        },
+        {
+            "id": 645917,
+            "name": "Hotel Herradura",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d645917-Reviews-Hotel_Herradura-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 339,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 66,
+                "max": 128
+            },
+            "phone": "+34 981 55 23 40",
+            "address": "Avda. Xoan Carlos I - Alameda, 15701, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Avda. Xoan Carlos I - Alameda",
+                "city": null,
+                "postal_code": "15701",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 7,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.876102,
+            "longitude": -8.548906,
+            "amenities": [
+                "Free Wifi"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
             ]
         },
         {
@@ -772,7 +585,7 @@
                 "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "Lol.travel"
+                "eDreams"
             ]
         },
         {
@@ -806,44 +619,49 @@
                 "Bar/Lounge"
             ],
             "providers": [
-                "Skyscanner.com",
-                "StayForLong",
                 "Booking.com",
-                "Expedia.com"
+                "Expedia.com",
+                "Hotels.com",
+                "Skyscanner.com"
             ]
         },
         {
-            "id": 483859,
-            "name": "Hotel Rua Villar",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d483859-Reviews-Hotel_Rua_Villar-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 315,
+            "id": 1762703,
+            "name": "Hotel Pazo de Altamira",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1762703-Reviews-Hotel_Pazo_de_Altamira-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 330,
             "rating": 4.5,
             "price_range_usd": {
-                "min": 76,
-                "max": 168
+                "min": 61,
+                "max": 200
             },
-            "phone": "+34 981 51 98 58",
-            "address": "Rua Vilar 8-10, 15705, Santiago de Compostela Spain",
+            "phone": "+34 981 55 85 42",
+            "address": "Rua Altamira 18, 15704, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "Rua Vilar 8-10",
+                "street": "Rua Altamira 18",
                 "city": null,
-                "postal_code": "15705",
+                "postal_code": "15704",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 5,
+                "current_rank": 26,
                 "total": 69
             },
             "featured_image": null,
-            "latitude": 42.879616,
-            "longitude": -8.544286,
+            "latitude": 42.8805,
+            "longitude": -8.541461,
             "amenities": [
                 "Free Wifi",
+                "Restaurant",
+                "Airport transportation",
                 "Bar/Lounge"
             ],
             "providers": [
-                "Booking.com"
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
             ]
         },
         {
@@ -876,83 +694,125 @@
                 "Free Wifi"
             ],
             "providers": [
-                "ZenHotels.com",
-                "StayForLong",
                 "Booking.com",
-                "Expedia.com"
+                "Expedia.com",
+                "Hotels.com",
+                "Vio.com"
             ]
         },
         {
-            "id": 1389246,
-            "name": "Hotel Restaurante San Paio",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1389246-Reviews-Hotel_Restaurante_San_Paio-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 65,
-            "rating": 3,
+            "id": 1198070,
+            "name": "Hotel Alda Algalia",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1198070-Reviews-Hotel_Alda_Algalia-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 266,
+            "rating": 4,
             "price_range_usd": {
-                "min": 65,
-                "max": 69
+                "min": 47,
+                "max": 127
             },
-            "phone": "+34 981 88 82 21",
-            "address": "Carretera Santiago-Aeropuerto. Lavacolla, 15820, Santiago de Compostela Spain",
+            "phone": "+34 881 09 29 80",
+            "address": "Plaza da Algalia de Arriba, 5, 15704, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "Carretera Santiago-Aeropuerto. Lavacolla",
-                "city": null,
-                "postal_code": "15820",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 66,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.900467,
-            "longitude": -8.447872,
-            "amenities": [
-                "Restaurant",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com",
-                "Agoda.com"
-            ]
-        },
-        {
-            "id": 1983523,
-            "name": "Hotel Carris Casa de la Troya",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1983523-Reviews-Hotel_Carris_Casa_de_la_Troya-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 452,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 76,
-                "max": 204
-            },
-            "phone": "+34 981 55 58 79",
-            "address": "Rua da Acibecheria 14, 15704, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua da Acibecheria 14",
+                "street": "Plaza da Algalia de Arriba, 5",
                 "city": null,
                 "postal_code": "15704",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 11,
+                "current_rank": 38,
                 "total": 69
             },
             "featured_image": null,
-            "latitude": 42.881294,
-            "longitude": -8.543447,
+            "latitude": 42.88254,
+            "longitude": -8.541979,
             "amenities": [
                 "Free Wifi",
-                "Room service",
+                "Restaurant"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Trip.com",
+                "Hotels.com"
+            ]
+        },
+        {
+            "id": 1389221,
+            "name": "Moure Hotel",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1389221-Reviews-Moure_Hotel-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 368,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 81,
+                "max": 171
+            },
+            "phone": "+34 981 58 36 37",
+            "address": "Rua Loureiros 6, 15704, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Rua Loureiros 6",
+                "city": null,
+                "postal_code": "15704",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 6,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.88366,
+            "longitude": -8.542847,
+            "amenities": [
+                "Free Wifi",
+                "Breakfast included",
                 "Bar/Lounge"
             ],
             "providers": [
                 "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "Lol.travel"
+                "eDreams"
+            ]
+        },
+        {
+            "id": 231703,
+            "name": "Hotel Ruta Jacobea",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d231703-Reviews-Hotel_Ruta_Jacobea-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 148,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 80,
+                "max": 110
+            },
+            "phone": "+34 981 88 82 11",
+            "address": "Rua Lavacolla 41, 15820, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Rua Lavacolla 41",
+                "city": null,
+                "postal_code": "15820",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 48,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.89974,
+            "longitude": -8.441093,
+            "amenities": [
+                "Free Wifi",
+                "Free parking",
+                "Restaurant",
+                "Airport transportation",
+                "Free airport transportation"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
             ]
         },
         {
@@ -989,9 +849,46 @@
             ],
             "providers": [
                 "Booking.com",
-                "Trip.com",
-                "eDreams",
-                "Lol.travel"
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
+            ]
+        },
+        {
+            "id": 1913843,
+            "name": "Casas Reais",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1913843-Reviews-Casas_Reais-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 327,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 79,
+                "max": 196
+            },
+            "phone": "+34 981 55 57 09",
+            "address": "Casas das Reais 29, 15704, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Casas das Reais 29",
+                "city": null,
+                "postal_code": "15704",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 7,
+                "total": 95
+            },
+            "featured_image": null,
+            "latitude": 42.8819,
+            "longitude": -8.54046,
+            "amenities": [
+                "Free Wifi",
+                "Airport transportation"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
             ]
         },
         {
@@ -1031,41 +928,44 @@
                 "Booking.com",
                 "Expedia.com",
                 "Hotels.com",
-                "Lol.travel"
+                "Vio.com"
             ]
         },
         {
-            "id": 583203,
-            "name": "Hotel Alta\u00efr",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d583203-Reviews-Hotel_Altair-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 608,
-            "rating": 4.5,
+            "id": 238626,
+            "name": "Nest Style Santiago",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d238626-Reviews-Nest_Style_Santiago-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 379,
+            "rating": 3.5,
             "price_range_usd": {
-                "min": 81,
-                "max": 163
+                "min": 49,
+                "max": 123
             },
-            "phone": "+34 981 55 47 12",
-            "address": "R\u00faa dos Loureiros 12, 15704, Santiago de Compostela Spain",
+            "phone": "+34 981 56 34 44",
+            "address": "Rua do Doutor Teixeiro 15, 15701, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "R\u00faa dos Loureiros 12",
+                "street": "Rua do Doutor Teixeiro 15",
                 "city": null,
-                "postal_code": "15704",
+                "postal_code": "15701",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 3,
+                "current_rank": 50,
                 "total": 69
             },
             "featured_image": null,
-            "latitude": 42.88388,
-            "longitude": -8.54269,
+            "latitude": 42.875202,
+            "longitude": -8.545041,
             "amenities": [
                 "Free Wifi",
                 "Bar/Lounge"
             ],
             "providers": [
-                "Booking.com"
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "Skyscanner.com"
             ]
         },
         {
@@ -1101,190 +1001,200 @@
             ],
             "providers": [
                 "Booking.com",
-                "eDreams",
-                "ZenHotels.com",
-                "Agoda.com"
+                "Expedia.com",
+                "Priceline",
+                "StayForLong"
             ]
         },
         {
-            "id": 238611,
-            "name": "Hotel Universal",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d238611-Reviews-Hotel_Universal-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 541,
-            "rating": 3.5,
+            "id": 565481,
+            "name": "Rosa Rosae PR3",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d565481-Reviews-Rosa_Rosae_PR3-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 187,
+            "rating": 4.5,
             "price_range_usd": {
-                "min": 50,
-                "max": 100
+                "min": 99,
+                "max": 175
             },
-            "phone": "+34 981 58 58 00",
-            "address": "Plaza de Galicia 2, 15702, Santiago de Compostela Spain",
+            "phone": "+34 981 52 83 00",
+            "address": "Calle la Rosa, 7, 15701, Santiago de Compostela Spain",
             "detailed_address": {
-                "street": "Plaza de Galicia 2",
+                "street": "Calle la Rosa, 7",
+                "city": null,
+                "postal_code": "15701",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 17,
+                "total": 95
+            },
+            "featured_image": null,
+            "latitude": 42.87274,
+            "longitude": -8.546564,
+            "amenities": [
+                "Free Wifi",
+                "Bar/Lounge"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
+            ]
+        },
+        {
+            "id": 1412906,
+            "name": "Hotel O Desvio",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g1870402-d1412906-Reviews-Hotel_O_Desvio-Roxos_Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 96,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 77,
+                "max": 127
+            },
+            "phone": "+34 981 81 59 94",
+            "address": "R\u00faa dos Muros 81, 15896 Roxos, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "R\u00faa dos Muros 81",
+                "city": "Roxos",
+                "postal_code": "15896",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 42,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.876587,
+            "longitude": -8.60852,
+            "amenities": [
+                "Free Wifi",
+                "Free parking",
+                "Restaurant",
+                "Room service",
+                "Bar/Lounge"
+            ],
+            "providers": [
+                "Booking.com",
+                "Expedia.com",
+                "Hotels.com",
+                "eDreams"
+            ]
+        },
+        {
+            "id": 3472761,
+            "name": "Hotel Montes",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d3472761-Reviews-Hotel_Montes-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
+            "reviews": 4,
+            "rating": 4.5,
+            "price_range_usd": {
+                "min": 82,
+                "max": 194
+            },
+            "phone": "+34 654 41 05 46",
+            "address": "Rua Raina 11, 15704, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Rua Raina 11",
+                "city": null,
+                "postal_code": "15704",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 64,
+                "total": 95
+            },
+            "featured_image": null,
+            "latitude": 42.879517,
+            "longitude": -8.544786,
+            "amenities": [
+                "Free Wifi",
+                "Airport transportation",
+                "Bar/Lounge"
+            ],
+            "providers": [
+                "Booking.com",
+                "Priceline",
+                "eDreams",
+                "Trip.com"
+            ]
+        },
+        {
+            "id": 248535,
+            "name": "Hotel Faranda Los Tilos, Ascend Hotel Collection",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d248535-Reviews-Hotel_Faranda_Los_Tilos_Ascend_Hotel_Collection-Santiago_de_Compostela_Province_of_A_Co.html",
+            "reviews": 172,
+            "rating": 2.5,
+            "price_range_usd": {
+                "min": 60,
+                "max": 114
+            },
+            "phone": "+34 981 81 96 37",
+            "address": "Estrada Highway km 2 Los Tilos Neighborhood, 15894, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "Estrada Highway km 2, Los Tilos Neighborhood",
+                "city": null,
+                "postal_code": "15894",
+                "state": null,
+                "country": "Spain"
+            },
+            "ranking": {
+                "current_rank": 69,
+                "total": 69
+            },
+            "featured_image": null,
+            "latitude": 42.846436,
+            "longitude": -8.540897,
+            "amenities": [
+                "Free Wifi",
+                "Pool",
+                "Restaurant",
+                "Room service",
+                "Bar/Lounge"
+            ],
+            "providers": [
+                "Booking.com",
+                "Trip.com",
+                "Priceline",
+                "Ascend Collection"
+            ]
+        },
+        {
+            "id": 234587,
+            "name": "Hotel Santiago Plaza Affiliated by Melia",
+            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d234587-Reviews-Hotel_Santiago_Plaza_Affiliated_by_Melia-Santiago_de_Compostela_Province_of_A_Coruna_Ga.html",
+            "reviews": 940,
+            "rating": 4,
+            "price_range_usd": {
+                "min": 68,
+                "max": 168
+            },
+            "phone": "+34 981 53 49 49",
+            "address": "C/ Restollal, 24, 15702, Santiago de Compostela Spain",
+            "detailed_address": {
+                "street": "C/ Restollal, 24",
                 "city": null,
                 "postal_code": "15702",
                 "state": null,
                 "country": "Spain"
             },
             "ranking": {
-                "current_rank": 40,
+                "current_rank": 27,
                 "total": 69
             },
             "featured_image": null,
-            "latitude": 42.87641,
-            "longitude": -8.544474,
-            "amenities": [
-                "Free Wifi"
-            ],
-            "providers": [
-                "Booking.com",
-                "Trip.com",
-                "eDreams",
-                "Official Site"
-            ]
-        },
-        {
-            "id": 238654,
-            "name": "Hotel Exe Area Central",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d238654-Reviews-Hotel_Exe_Area_Central-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 354,
-            "rating": 3.5,
-            "price_range_usd": {
-                "min": 58,
-                "max": 141
-            },
-            "phone": "+34 981 55 22 22",
-            "address": "Rua Paris 7C Centro Comercial Area Central, 15707, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Paris 7C, Centro Comercial Area Central",
-                "city": null,
-                "postal_code": "15707",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 43,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.882317,
-            "longitude": -8.526722,
-            "amenities": [
-                "Free Wifi"
-            ],
-            "providers": [
-                "Booking.com",
-                "Trip.com",
-                "Algotels",
-                "Lol.travel"
-            ]
-        },
-        {
-            "id": 10265761,
-            "name": "Apartamentos Cancelas By Bossh Hotels",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d10265761-Reviews-Apartamentos_Cancelas_By_Bossh_Hotels-Santiago_de_Compostela_Province_of_A_Coruna_Gal.html",
-            "reviews": 30,
-            "rating": 3,
-            "price_range_usd": {
-                "min": 49,
-                "max": 91
-            },
-            "phone": "+34 600 42 72 96",
-            "address": "R\u00faa dos Salgueiri\u00f1os de Abaixo, 28, 15703, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "R\u00faa dos Salgueiri\u00f1os de Abaixo, 28",
-                "city": null,
-                "postal_code": "15703",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 69,
-                "total": 96
-            },
-            "featured_image": null,
-            "latitude": 42.893932,
-            "longitude": -8.530273,
+            "latitude": 42.86489,
+            "longitude": -8.54356,
             "amenities": [
                 "Free Wifi",
-                "Free parking"
-            ],
-            "providers": [
-                "Booking.com",
-                "Expedia.com",
-                "Hotels.com",
-                "ZenHotels.com"
-            ]
-        },
-        {
-            "id": 1389221,
-            "name": "Moure Hotel",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d1389221-Reviews-Moure_Hotel-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 368,
-            "rating": 4.5,
-            "price_range_usd": {
-                "min": 81,
-                "max": 171
-            },
-            "phone": "+34 981 58 36 37",
-            "address": "Rua Loureiros 6, 15704, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Loureiros 6",
-                "city": null,
-                "postal_code": "15704",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 6,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.88366,
-            "longitude": -8.542847,
-            "amenities": [
-                "Free Wifi",
-                "Breakfast included",
+                "Restaurant",
+                "Room service",
                 "Bar/Lounge"
             ],
             "providers": [
-                "Vio.com",
-                "ZenHotels.com",
-                "StayForLong",
-                "Booking.com"
-            ]
-        },
-        {
-            "id": 3370258,
-            "name": "Hotel Montenegro Compostela",
-            "link": "https://www.tripadvisor.com/Hotel_Review-g187508-d3370258-Reviews-Hotel_Montenegro_Compostela-Santiago_de_Compostela_Province_of_A_Coruna_Galicia.html",
-            "reviews": 250,
-            "rating": 4,
-            "price_range_usd": {
-                "min": 70,
-                "max": 155
-            },
-            "phone": "+34 981 57 25 42",
-            "address": "Rua Xelmirez 18, 15704, Santiago de Compostela Spain",
-            "detailed_address": {
-                "street": "Rua Xelmirez 18",
-                "city": null,
-                "postal_code": "15704",
-                "state": null,
-                "country": "Spain"
-            },
-            "ranking": {
-                "current_rank": 39,
-                "total": 69
-            },
-            "featured_image": null,
-            "latitude": 42.879738,
-            "longitude": -8.542839,
-            "amenities": [
-                "Free Wifi",
-                "Bar/Lounge"
-            ],
-            "providers": [
-                "Booking.com"
+                "Melia.com"
             ]
         }
     ]
